@@ -26,8 +26,8 @@ Une fois ça fait, à chaque fois que tu voudras _synchroniser_ ton fork avec le
 1. Lis le [contrat pédagogique](../../../BeCode/blob/master/contratpedagogique.md).
 1. Consulte également le [livret des apprenants](https://docs.google.com/document/d/1ic7FbY_2QNg2X1n3jS0KEFEa7SbnsjKakEYkYc--XcE/edit?usp=sharing).
 1. [L'agenda de ta startup](https://calendar.google.com/calendar/b/1?cid=YmVjb2RlLm9yZ19sc25wYXZvc29mOGMzMDY0MjJrOTQ1NnU0Z0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
-1. [Le parcours pédagogique](https://docs.google.com/drawings/d/1lDE_wBLRhSdLYTVrR7MsBzxOl0aGE7V-lBRvP3052zw/edit?usp=sharing)
 1. Le [Wiki de BeCode](https://github.com/becodeorg/BeCode/wiki)
+1. [Becode Liège](/infos/)
 
 ## Retards et absences
 
@@ -42,3 +42,22 @@ Dans l'ordre :
 - 2 retards non justifiés seront comptabilisés comme une absence ;
 - 2 absences entraîneront une convocation en entretien individuel ;
 - 6 absences non justifiées entraîneront un contrat d'assuidité.
+
+## Contenus pédagogiques
+
+[Le parcours pédagogique](https://docs.google.com/drawings/d/1lDE_wBLRhSdLYTVrR7MsBzxOl0aGE7V-lBRvP3052zw/edit?usp=sharing)
+
+1. [La prairie](./01-the-field/)
+2. [La colline](./02-the-hill/)
+3. [La montagne](./03-the-mountain/)
+4. [Les pâturages](./04-the-pastures/)
+
+
+## Congés
+| Dates | Pourquoi on n'est pas là ? |
+|---|---|
+| Semaine du 14 au 18 octobre | on se repose |
+| Ve 01 novembre | Toussaint |
+| Lu 11 novembre | Commémoration du 11 novembre |
+| Semaine du 23 au 27 décembre | Vacances d'hiver (Noël)|
+| Me 1 janvier 2020 | Jour de l'an |

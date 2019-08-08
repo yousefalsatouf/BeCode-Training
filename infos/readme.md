@@ -73,13 +73,12 @@ Récemment arrivée dans l'équipe, Julie fera le lien entre les deux promos.
 #### Leny 
 
 Leny est le lead coach des **Hamilton**.  
-Il a une longue carrière de développeur derrière lui. 
+Il a une longue carrière de développeur derrière lui. Son grand secret? Les canards en plastique. 
 
 ##### Contact
 
 - Ryver : **@leny**
 - Mail : [leny@becode.org](mailto:leny@becode.org)
-
 
 
 
@@ -126,18 +125,6 @@ Elle nous visite régulièrement et aura de temps en temps besoin de toi sous fo
 - Ryver : **@alixe**
 - Mail : [alixe@becode.org](mailto:alixe@becode.org)
 
-* * *
-
-## Les dates
-
-- **Début de la promo :** 13/08/2019
-- **Fin de la prairie :** 13/09/2019
-- **Première semaine de congé :** 22/07/2019 au 26/07/2019
-- **Seconde semaine de congé :** 23/09/2019 au 27/09/2019
-- **Début des pâturages :** _TODO_
-- **Début des stages :** _TODO_
-
-* * *
 
 ## Les rituels de BeCode
 
