@@ -41,7 +41,8 @@ Dans l'ordre :
 [Petit rappel](https://github.com/becodeorg/BeCode/blob/master/contratpedagogique.md#sanctions) :
 - 2 retards non justifiés seront comptabilisés comme une absence ;
 - 2 absences entraîneront une convocation en entretien individuel ;
-- 6 absences non justifiées entraîneront un contrat d'assuidité.
+- 6 absences non justifiées entraîneront une exclusion définitive ;
+- Si le taux d'absence (justifiées ou non) dépasse 20%, BeCode pourra décider de l'exclusion définitive de l'apprenant(e).
 
 ## Contenus pédagogiques
 
