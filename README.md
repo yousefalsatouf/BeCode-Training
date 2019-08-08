@@ -33,9 +33,10 @@ Une fois ça fait, à chaque fois que tu voudras _synchroniser_ ton fork avec le
 En cas de retard, d'absence ou de départ anticipé (que ça soit prévu ou pas du tout), préviens-nous !  
 
 Dans l'ordre :
-- Si tu as déjà ton justificatif, envoie-le directement via la plateforme [my.becode.org](https://my.becode.org)  [[Mode d'emploi](https://github.com/becodeorg/BeCode/blob/master/mybecode-absence-fr.md)]
-- Si tu n'as pas encore ton justificatif, préviens tes coaches de ton absence à nico@becode.org et julie@becode.org. Tu le mettras sur [my.becode.org](https://my.becode.org) dès que tu l'as.
-- Si tu sais que tu n'auras pas de justif, préviens-nous.
+- Tu envoies un email à tes coachs, rédigé professionnellement à nico@becode.org et julie@becode.org.
+- Tu préviens via la plateforme [my.becode.org](https://my.becode.org)[my.becode.org](https://my.becode.org)  [[Mode d'emploi](https://github.com/becodeorg/BeCode/blob/master/mybecode-absence-fr.md)]
+- Document justificatif: télécharges-le directement sur [my.becode.org](https://my.becode.org), si possible, sinon envoie-le dès que tu l'as reçu.
+- Pas de justificatif ? Dis-le à tes coachs explicitement.
 
 [Petit rappel](https://github.com/becodeorg/BeCode/blob/master/contratpedagogique.md#sanctions) :
 - 2 retards non justifiés seront comptabilisés comme une absence ;
