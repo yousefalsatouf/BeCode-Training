@@ -24,8 +24,8 @@ Une fois ça fait, à chaque fois que tu voudras _synchroniser_ ton fork avec le
 ## Tes sources d'information pour respecter les règles de BeCode
 
 1. Lis le [contrat pédagogique](../../../BeCode/blob/master/contratpedagogique.md).
-1. [L'agenda de ta startup](https://calendar.google.com/calendar/b/1?cid=YmVjb2RlLm9yZ19sc25wYXZvc29mOGMzMDY0MjJrOTQ1NnU0Z0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 1. Le [Wiki de BeCode](https://github.com/becodeorg/BeCode/wiki)
+1. [L'agenda de ta startup](https://calendar.google.com/calendar/b/1?cid=YmVjb2RlLm9yZ19sc25wYXZvc29mOGMzMDY0MjJrOTQ1NnU0Z0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 1. [Becode Liège](/infos/)
 
 ## Retards et absences
