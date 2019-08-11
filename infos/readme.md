@@ -61,8 +61,6 @@ Si tu as le moindre pépin, n’importe quoi qui pourrait affecter ton travail, 
 
 Récemment arrivée dans l'équipe, Julie fera le lien entre les deux promos. 
 
-> ✌️ 
-
 > 🤟 *Le savais-tu ?* Julie est une ancienne de BeCode - tout ce que tu traverses, elle l'a vécu elle aussi, et partage volontier son expérience.
 
 ##### Contact

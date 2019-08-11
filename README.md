@@ -25,7 +25,7 @@ Une fois ça fait, à chaque fois que tu voudras _synchroniser_ ton fork avec le
 
 1. Lis le [contrat pédagogique](../../../BeCode/blob/master/contratpedagogique.md).
 1. Le [Wiki de BeCode](https://github.com/becodeorg/BeCode/wiki)
-1. [L'agenda de ta startup](https://calendar.google.com/calendar/b/1?cid=YmVjb2RlLm9yZ19sc25wYXZvc29mOGMzMDY0MjJrOTQ1NnU0Z0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+1. [L'agenda de ta startup](https://calendar.google.com/calendar/b/1?cid=YmVjb2RlLm9yZ19wNTc0YXFsZGhnYzNrOWwyaXBqaThwb21hb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 1. [Becode Liège](/infos/)
 
 ## Retards et absences
@@ -34,8 +34,7 @@ En cas de retard, d'absence ou de départ anticipé (que ça soit prévu ou pas 
 
 Dans l'ordre :
 - Tu envoies un email à tes coachs, rédigé professionnellement à nico@becode.org et julie@becode.org.
-- Tu préviens via la plateforme [my.becode.org](https://my.becode.org)[my.becode.org](https://my.becode.org)  [[Mode d'emploi](https://github.com/becodeorg/BeCode/blob/master/mybecode-absence-fr.md)]
-- Document justificatif: télécharges-le directement sur [my.becode.org](https://my.becode.org), si possible, sinon envoie-le dès que tu l'as reçu.
+- Document justificatif: télécharges-le directement sur [my.becode.org](https://my.becode.org), si possible, sinon envoie-le dès que tu l'as reçu. [[Mode d'emploi My Becode](https://github.com/becodeorg/BeCode/blob/master/mybecode-absence-fr.md)]
 - Pas de justificatif ? Dis-le à tes coachs explicitement.
 
 [Petit rappel](https://github.com/becodeorg/BeCode/blob/master/contratpedagogique.md#sanctions) :
@@ -46,7 +45,7 @@ Dans l'ordre :
 
 ## Contenus pédagogiques
 
-[Le parcours pédagogique](https://docs.google.com/drawings/d/1lDE_wBLRhSdLYTVrR7MsBzxOl0aGE7V-lBRvP3052zw/edit?usp=sharing)
+[Le parcours pédagogique](https://docs.google.com/drawings/d/1Rk-CRGgT3S3CwWI9-OSG_-qODqnzDu3rVFOglPBPhP0/)
 
 1. [La prairie](./01-the-field/)
 2. [La colline](./02-the-hill/)
