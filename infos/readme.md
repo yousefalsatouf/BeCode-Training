@@ -175,4 +175,5 @@ _TODO_
 
 Chaque deuxième mercredi du mois, les apprenants de Becode organisent un CoderDojo.  
 Un CoderDojo c'est un atelier d'initiation au code pour des enfants de 7 à 17 ans. 
-Si tu veux en avoir plus demande aux référents **Hamilton**. 
+Si tu veux en savoir plus demande aux référents **Hamilton**.  
+Tu participeras sûrement à au moins un CoderDojo avant la fin de ta formation. 
