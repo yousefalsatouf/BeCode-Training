@@ -145,7 +145,16 @@ Une veille, c'est quoi ? Tout est expliqué sur le [repo dédié](https://github
 Régulièrement (au moins deux fois par semaine, parfois plus, en fonction des besoins), en fin de journée, on fait un _debrief_ : on fait le point sur les journées écoulées, les moments forts et les difficultés rencontrées.  
 Ça nous aide, nous, à voir où tout le monde se situe, et à toi, à voir si tu peux aider (ou te faire aider) par un autre apprenant apte à le faire.
 
+* * *
 
+## Le Pôle Image Liège
+
+Le PIL est un immense bâtiment avec plein plein plein d'entreprises. Pour que tout roule, il y a un [règlement d'ordre intérieur](reglement-ordre-interieur-pil.pdf) que tu peux consulter. 
+
+Le PIL dispose, notamment, de salles de réunion, d'un réfectoire, d'un parking vélo, d'une salle de sport (10€/mois), d'une salle de jeux d'arcade, d'une magnifique terrasse ect... En étant à Becode, tu pourras bénéficier de ce cadre exceptionnel afin d'apprendre dans les meilleurs conditions. 
+
+Si tu dois réserver une salle de réunion, demande à tes coachs, ils se chargeront d'en réserver une pour toi. 
+Concernant la salle d'arcade, le maître des clés est Leny, demande lui si tu souhaites y accéder. 
 
 * * *
 
