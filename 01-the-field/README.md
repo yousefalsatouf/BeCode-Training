@@ -6,8 +6,6 @@ Pour faire court: Linux !
 
 Pour faire long, [voilà pourquoi vous devez utiliser Linux](./linux.md).
 
-Voyez également [la liste des outils recommandés](./tools.md).
-
 ## Apprends à faire de Google ton ami
 
 Il existe pas mal d'astuces permettant d'améliorer les résultats que Google retourne. [Consulte ce mode d'emploi](UtiliserGoogle.md), tu vas surement apprendre pleins de choses. Si tu en connais d'autres, partage...
