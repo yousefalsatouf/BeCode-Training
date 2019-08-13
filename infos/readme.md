@@ -30,7 +30,7 @@ Les apprenants des **Hamilton** ont commencé en mai.
 Ils sont un peu plus loin que toi sur le chemin, et ils ont connus les mêmes galères que toi.  
 Tu t’es vu attribuer une marraine ou un parrain au début de ton aventure. Il ou elle est là pour t’aider et te transmettre trucs, astuces, apaiser tes angoisses et t'encourager.
 
-Et bientôt... tu seras toi aussi parrain ou marraine des prochains Jepsen.
+Et un jour... tu seras toi aussi parrain ou marraine des prochains Hamilton.
 
 Donner et recevoir. C’est notre _credo_.
 
