@@ -1,6 +1,6 @@
 # Startup Jepsen 2.14
 
-<img src="group.jpg" alt="photo_de_groupe" width="300">
+<img src="photo_group.jpg" alt="photo_de_groupe" width="300">
 
 Ce repo est pour tout ce qui concerne ton activité à BeCode : briefings, parcours, etc.
 Clone-le sur ton ordi et `git pull` régulièrement afin de rapatrier les mises à jour.
