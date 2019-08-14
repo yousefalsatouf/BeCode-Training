@@ -10,6 +10,9 @@
 2. Confirmer avec [Learn git branching](http://learngitbranching.js.org) _(aller le plus loin possible)_
 3. Faire le [Codeschool - Git ](https://www.codeschool.com/learn/git)
 
+### Après-midi
+4. Exercice Markdown : [Se créer une page de présentation](exercice-markdown-individuel.md)
+
 
 ## Aller plus loin
 Voici de quoi te perfectionner. 
