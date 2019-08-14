@@ -10,9 +10,6 @@
 2. Confirmer avec [Learn git branching](http://learngitbranching.js.org) _(aller le plus loin possible)_
 3. Faire le [Codeschool - Git ](https://www.codeschool.com/learn/git)
 
-### Après-midi
-4. Exercice de groupe : [cadavre exquis]()
-
 
 ## Aller plus loin
 Voici de quoi te perfectionner. 
@@ -36,4 +33,4 @@ Voici de quoi te perfectionner.
 
 ### Contribuer à un dépôt sans être contributeur
 
-[Pourquoi et comment créer des pull-request](https://services.github.com/on-demand/intro-to-github/create-pull-request)
+[Pourquoi et comment créer des pull-request](https://help.github.com/en/articles/creating-a-pull-request)

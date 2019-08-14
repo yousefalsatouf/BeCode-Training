@@ -13,4 +13,3 @@ Cette plateforme héberge également la plus grande communauté en ligne de dév
 3. [Apprentissage](git-training.md)
 4. [Exercice Git Solo : se faire une page de présentation pro](exercice-markdown-individuel.md)
 5. [Exercice Git Collectif en mode yolo : Cadavre exquis](exercice-git-cadavre-exquis.md)
-6. [Exercice Git Collectif en mode sérieux : Intelligence collective](exercice-markdown-groupe.md)

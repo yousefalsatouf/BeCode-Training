@@ -49,11 +49,6 @@ Tous les jours, fais au moins une heure de jeux logiques, histoire de muscler to
 ## Programmation
 
 - [Algorithmics with JavaScript](./js-basics-algo)
-- [JavaScript for the Web](./js-web)
-
-## Exercices de groupe
-
-- [Exercice de groupe JavaScript for the Web](./js-web-group.md)
 
 
 ## Extra challenges

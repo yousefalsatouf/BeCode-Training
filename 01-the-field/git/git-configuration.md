@@ -3,7 +3,6 @@
 
 
 1. Lis d'abord notre [introduction made in BeCode](https://github.com/becodeorg/BeCode/wiki/Git-&-Github).
-2. Inscris-toi sur Github : [https://github.com/join](https://github.com/join)
 
 
 ### Profil GitHub
