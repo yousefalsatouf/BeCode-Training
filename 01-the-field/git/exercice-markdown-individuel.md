@@ -1,7 +1,6 @@
 # Réalise ta page de présentation de developer avec les GitHub Pages
 
 ### objectifs d'apprentissage
-- rédiger en utilisant le [MarkDown](https://guides.github.com/features/mastering-markdown/) et comprendre à quoi cela sert
 - utiliser Git pour son travail en solo, via le terminal
 - déployer via la technologie "[GitHub Pages](https://pages.github.com/)"
 
