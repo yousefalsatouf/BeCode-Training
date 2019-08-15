@@ -16,7 +16,7 @@ A plusieurs, jouer à réaliser un [Cadavre exquis](https://fr.wikipedia.org/wik
 1. `clone` de votre dépôt sur votre ordinateur
 1. Créer une branche __"developpement"__
 1. Aller dans cette nouvelle branche
-1. Rédiger *3* lignes de textes pour débuter une histoire dans le *README.md* __(en utilisant un maximum le markdown)__
+1. Rédiger *3* lignes de textes pour débuter une histoire dans le *README.md* __(en utilisant un maximum le markdown)__ (Vous pouvez, éventuellement, ajouter une image, un lien ou du code commenté en plus de vos 3 lignes).
 1. Faire un `add`
 1. Faire un `commit`
 1. Faire un `push` de la branche __"developpement"__
