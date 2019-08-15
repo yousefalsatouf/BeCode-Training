@@ -6,8 +6,6 @@
 
 ## Instructions
 
-Durée : 1 Jour
-
 A plusieurs, jouer à réaliser un [Cadavre exquis](https://fr.wikipedia.org/wiki/Cadavre_exquis_(jeu)) en utilisant Git pour échanger vos contributions. 
 **Principe** : arriver à travailler sur les mêmes fichiers en même temps, en gérant les conflits (ou en les évitant).  
 
@@ -25,7 +23,7 @@ A plusieurs, jouer à réaliser un [Cadavre exquis](https://fr.wikipedia.org/wik
 1. Inviter vos collègues en tant que __contributeurs__
 
 ### Etape 2 : Contributions
-1. Aller sur un dépôt où vous avez été invité
+1. Aller sur un repo où vous avez été invité
 1. Faire un `clone`
 1. Faire `git branch -a` pour afficher la liste des branches sur le serveur
 1. Faire un `pull` de la branche __"developpement"__
@@ -37,10 +35,10 @@ A plusieurs, jouer à réaliser un [Cadavre exquis](https://fr.wikipedia.org/wik
 1. Faire un `push`de la branche  __"ajouts-votre-prenom"__
 1. Faire un `merge` de votre branche __"ajouts-votre-prenom"__ avec __"developpement"__
 1. Faire un `push`de la branche  __"developpement"__
-1. Faire ceci pour tous vos autres collègues
+1. Faire ceci avec au minimum 10 de vos collègues
 
 ### Etape 3 : Versioning
-1. Quand tous vos collègues sont passés chez vous, retourner sur votre dépôt
+1. Quand au moins 10 de vos collègues sont passés chez vous, retourner sur votre repo
 1. Faire un `merge` de "developpement" sur "master"
 1. Faire un `tag` de "master" nommé __"version-1"__
 
