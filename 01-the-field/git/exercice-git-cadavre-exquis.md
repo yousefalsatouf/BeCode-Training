@@ -1,6 +1,6 @@
 ## Objectifs
 
-- Amélioration des compétences en Markdown
+- Apprendre le [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - Amélioration des compétences en Git
 - Apprentissage d'un workflow avec des contributeurs sur GitHub
 
