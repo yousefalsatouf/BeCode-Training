@@ -12,7 +12,7 @@
 - Contenu : un pense-bête (un memo) de soit:
    - ce que vous avez retenu du début de la formation.
    - ce qu'est le MarkDown et un inventaire de sa syntaxe, le plus complet possible.
--  Organisez le contenu dans au moins deux documents en MarkDown (extension des fichiers : `.md`).
+- Organisez le contenu dans au moins deux documents en MarkDown (extension des fichiers : `.md`).
 - Chaque fichier contient un menu permettant d'accéder à tous les autres.
 - le Readme du repo décrit ce qu'il contient et liste les personnes du groupe. Inspirez-vous de [ces conseils](https://medium.com/becode/comment-faire-un-readme-sur-github-cc11f3df606a)
 
@@ -24,7 +24,7 @@
 - insertion d’une image statique
 - insertion d’une image animée
 - au moins une liste (à puce ou ordonnée) imbriquées (donc plusieurs niveaux hiérarchiques)
-- un bout de code, avec coloration syntaxique (par exemple [ce bout de code](http://stackoverflow.com/a/1701672/53960).
+- un bout de code, avec coloration syntaxique (par exemple [comme sur cette page de Stackoverflow](http://stackoverflow.com/a/1701672/53960) ).
 
 
 
