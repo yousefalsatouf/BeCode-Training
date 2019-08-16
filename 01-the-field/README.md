@@ -33,6 +33,10 @@ Tous les jours, fais au moins une heure de jeux logiques, histoire de muscler to
 
 - https://coderbyte.com/challenges : résous des petits problèmes en code.
 
+### Algorithmie
+
+- [Algorithmics with JavaScript](./js-basics-algo)
+
 ### Logiciel Algorithmique
 
 * [Algobox](http://www.xm1math.net/algobox/index.html)
@@ -42,20 +46,12 @@ Tous les jours, fais au moins une heure de jeux logiques, histoire de muscler to
 - [Liste des exercices](html-css)
 - [Animation : les technologies du web (frontend, backend, fullstack, chose)](https://app.ludus.one/74e7bebb-4b97-4ed6-8fab-08d25778f54d)
 
-## Faire un beau readme.md
-
-- [Comment rédiger des readme utiles et intéressants sur GitHub](https://medium.com/becode/comment-faire-un-readme-sur-github-cc11f3df606a)
-
-## Programmation
-
-- [Algorithmics with JavaScript](./js-basics-algo)
-
-
 ## Extra challenges
 
 * [Extra challenges](extra-challenges.md)
 
 ## Liens utiles
 
+- [Comment rédiger des readme utiles et intéressants sur GitHub](https://medium.com/becode/comment-faire-un-readme-sur-github-cc11f3df606a)
 - [Dactylographie Online](https://www.dactylographie-online.com)
 
