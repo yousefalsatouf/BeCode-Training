@@ -18,7 +18,7 @@ Il existe pas mal d'astuces permettant d'améliorer les résultats que Google re
 
 - [Formation git](./git)
 
-## Exercices & jeux logiques
+## Entrainement & jeux logiques
 
 Tous les jours, fais au moins une heure de jeux logiques, histoire de muscler ton cerveau et le préparer à la programmation logique (javascript, php, python, ror...).
 
@@ -29,13 +29,13 @@ Tous les jours, fais au moins une heure de jeux logiques, histoire de muscler to
 - [Scratch](https://scratch.mit.edu/) par le MIT. Un must.
 - [Blocky](https://developers.google.com/blockly/), par Google. Même principe que [Scratch](https://scratch.mit.edu/) ou Kano, mais qui génère du vrai code.
 
-## Logiciels Algorithmique
-
-* [Algobox](http://www.xm1math.net/algobox/index.html)
-
-## Coding challenges
+### Coding challenges
 
 - https://coderbyte.com/challenges : résous des petits problèmes en code.
+
+### Logiciel Algorithmique
+
+* [Algobox](http://www.xm1math.net/algobox/index.html)
 
 ## Markdown, HTML et choses
 
