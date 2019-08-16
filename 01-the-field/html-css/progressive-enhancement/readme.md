@@ -1,7 +1,6 @@
 # L'Amélioration progressive
 
 - Repository à créer : `progressive-enhancement` 
-- Temps nécessaire : 3-4 jours.
 
 ## 1. HTML : la sémantique
 
