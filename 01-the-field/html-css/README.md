@@ -17,10 +17,9 @@ Sauf lorsqu'il est indiqué qu'il faut une GitHub Page (dans ce cas, fais un rep
 
 ## Exercices permettant d'atteindre ces compétences
 
-- [Amélioration Progressive](./progressive-enhancement/readme.md)
 - [1 - markdown vers HTML](1-exercice-markdown-to-html.md)
 - [2 - markdown vers HTML et CSS](2-exercice-markdown-to-html-and-css.md)
-- [3 - HTML basic](3-exercice-html-basic.md)
+- [3 - Amélioration Progressive](./progressive-enhancement/readme.md)
 - [4 - page 404](4-exercice-404-html.md)
 - [5 - créer un CV](5-exercice-creer-un-cv.md)
 - [6 - Vcard en HTML](6-exercice-vcard-html.md)
