@@ -34,7 +34,7 @@ To read the terminal's manual execute `man [command you're looking for]` in your
 
 A shortest way is `whatis [command you're looking for]`. It displays a little definition of the command. 
 
-####Instructions :
+#### Instructions :
 * in a directory, create a text file `permissions`
 * write something funny inside
 * check the owner and group of the file (use `ls`)
