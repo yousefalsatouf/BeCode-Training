@@ -22,7 +22,6 @@ Il existe pas mal d'astuces permettant d'améliorer les résultats que Google re
 ## Markdown, HTML et choses
 
 - [Liste des exercices](html-css)
-- [Animation : les technologies du web (frontend, backend, fullstack, chose)](https://app.ludus.one/74e7bebb-4b97-4ed6-8fab-08d25778f54d)
 
 ---
 
