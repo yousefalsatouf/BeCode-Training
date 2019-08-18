@@ -12,7 +12,7 @@ Il existe pas mal d'astuces permettant d'améliorer les résultats que Google re
 
 ## Le Terminal
 
-- [Initiation au terminal](/terminal/)
+- [Initiation au terminal](terminal)
 
 ## Git
 
