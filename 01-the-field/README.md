@@ -10,9 +10,9 @@ Pour faire long, [voilà pourquoi vous devez utiliser Linux](./linux.md).
 
 Il existe pas mal d'astuces permettant d'améliorer les résultats que Google retourne. [Consulte ce mode d'emploi](UtiliserGoogle.md), tu vas surement apprendre pleins de choses. Si tu en connais d'autres, partage...
 
-## Prise en main du terminal
+## Le Terminal
 
-- [Initiation au terminal](initiation_terminal.md)
+- [Initiation au terminal](/terminal/)
 
 ## Git
 
