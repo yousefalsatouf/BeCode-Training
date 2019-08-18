@@ -271,13 +271,15 @@ Par défaut, le navigateur utilise les polices de caractères installées sur l'
 - Vérifie que ton HTML permet **une bonne SEO organique**, via d'autres outils comme le [Google Lighthouse Test](https://developers.google.com/web/tools/lighthouse/) 
 - Installe [Emmet](https://emmet.io/) dans ton éditeur de code.
 
-## 5. Exercices pratiques terminant ce sprint
+<details>
+<summary><h2>5. Exercices bonus terminant ce sprint</h2></summary>
 
 - Reproduis le plus fidèlement possible les layouts suivants :    
 	- [homepage de turlututu.com](turlututu.png)
 	- [homepage de CodeCollab](activecollab.png)
 - Crée une version en html sémantique du document [8 façons simples d’améliorer la typographie dans vos designs](doc-ameliorer-sa-typo.txt) et améliore la lisibilité en appliquant tout le css pour en améliorer le contenu. Cherche à produire un résultat favorisant la lecture, proche d'un article sur Medium. 
 - Crée une version en html sémantique du document [Petit Guide Typographique](doc-guide-typographie.txt) et améliore la lisibilité en appliquant tout le css pour en améliorer le contenu. Cherche à produire un résultat favorisant la lecture, proche d'un article sur Medium. 
+</details>
 
 ## FINI ? 
 BRAVO, voici un gif ! 
