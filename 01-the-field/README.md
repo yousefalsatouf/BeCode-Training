@@ -18,6 +18,14 @@ Il existe pas mal d'astuces permettant d'améliorer les résultats que Google re
 
 - [Formation git](./git)
 
+
+## Markdown, HTML et choses
+
+- [Liste des exercices](html-css)
+- [Animation : les technologies du web (frontend, backend, fullstack, chose)](https://app.ludus.one/74e7bebb-4b97-4ed6-8fab-08d25778f54d)
+
+---
+
 ## Entrainement & jeux logiques
 
 Tous les jours, fais au moins une heure de jeux logiques, histoire de muscler ton cerveau et le préparer à la programmation logique (javascript, php, python, ror...).
@@ -29,6 +37,10 @@ Tous les jours, fais au moins une heure de jeux logiques, histoire de muscler to
 - [Scratch](https://scratch.mit.edu/) par le MIT. Un must.
 - [Blocky](https://developers.google.com/blockly/), par Google. Même principe que [Scratch](https://scratch.mit.edu/) ou Kano, mais qui génère du vrai code.
 
+### Algorithmie
+
+- [Algorithmics with JavaScript](./js-basics-algo)
+
 ### Coding Game
 
 - https://www.codingame.com/learn : Sélectionner les exercices Javascript. 
@@ -37,22 +49,15 @@ Tous les jours, fais au moins une heure de jeux logiques, histoire de muscler to
 
 - https://coderbyte.com/challenges : résous des problèmes en code.
 
-### Algorithmie
-
-- [Algorithmics with JavaScript](./js-basics-algo)
-
 ### Logiciel Algorithmique
 
 * [Algobox](http://www.xm1math.net/algobox/index.html)
 
-## Markdown, HTML et choses
-
-- [Liste des exercices](html-css)
-- [Animation : les technologies du web (frontend, backend, fullstack, chose)](https://app.ludus.one/74e7bebb-4b97-4ed6-8fab-08d25778f54d)
-
-## Extra challenges
+### Extra challenges
 
 * [Extra challenges](extra-challenges.md)
+
+----
 
 ## Liens utiles
 
