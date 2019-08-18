@@ -1,8 +1,8 @@
 # Permissions
 
-Type of challenge: *learning* +
-Duration: *30 min* +
-Team challenge: *solo*
+Type of challenge: *learning*  
+Duration: *30 min*  
+Team challenge: *solo*  
 
 
 ## Learning objectives
@@ -34,7 +34,7 @@ To read the terminal's manual execute `man [command you're looking for]` in your
 
 A shortest way is `whatis [command you're looking for]`. It displays a little definition of the command. 
 
-.Instructions
+####Instructions :
 * in a directory, create a text file `permissions`
 * write something funny inside
 * check the owner and group of the file (use `ls`)
@@ -47,7 +47,7 @@ A shortest way is `whatis [command you're looking for]`. It displays a little de
 
 ### Resources
 
-* https://www.guru99.com/file-permissions.html[file permissions]
+* [file permissions](https://www.guru99.com/file-permissions.html)
 
 
 ## Congrats
@@ -55,4 +55,4 @@ A shortest way is `whatis [command you're looking for]`. It displays a little de
 Permissions and ownership can be tough to grasp but they allow for multiple
 people to work on the same system with all their data secured.
 
-image::https://media.giphy.com/media/xTk9ZE94CfWTe2fzMI/giphy.gif[]
+![image](https://media.giphy.com/media/xTk9ZE94CfWTe2fzMI/giphy.gif)
