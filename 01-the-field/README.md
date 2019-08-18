@@ -19,7 +19,7 @@ Il existe pas mal d'astuces permettant d'améliorer les résultats que Google re
 - [Formation git](./git)
 
 
-## HTML - CSS
+## Markdown - HTML - CSS
 
 - [Liste des exercices](html-css)
 
