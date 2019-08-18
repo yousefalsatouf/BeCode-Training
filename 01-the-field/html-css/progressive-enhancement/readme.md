@@ -271,8 +271,7 @@ Par défaut, le navigateur utilise les polices de caractères installées sur l'
 - Vérifie que ton HTML permet **une bonne SEO organique**, via d'autres outils comme le [Google Lighthouse Test](https://developers.google.com/web/tools/lighthouse/) 
 - Installe [Emmet](https://emmet.io/) dans ton éditeur de code.
 
-<details>
-<summary><h2>5. Exercices bonus terminant ce sprint</h2></summary>
+<details><summary><h2>5. Exercices bonus terminant ce sprint</h2></summary>
 
 - Reproduis le plus fidèlement possible les layouts suivants :    
 	- [homepage de turlututu.com](turlututu.png)
