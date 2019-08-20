@@ -6,7 +6,7 @@
 
 ## Instructions 
 
-- Voici quelques [inspirations](https://www.google.be/search?q=landing+page&espv=2&source=lnms&tbm=isch&sa=X&sqi=2&ved=0ahUKEwjmvai3v6zTAhVBCSwKHfOIAGMQ_AUIBigB&biw=1250&bih=703#tbm=isch&q=404+page)
+- Voici quelques [inspirations](https://www.google.com/search?tbm=isch&q=funny+404+page&chips=q:funny+404+page,online_chips:inspiration&sa=X&ved=0ahUKEwihl6jU-ZDkAhUDDOwKHfNwCwQQ4lYIKygA&biw=1877&bih=949&dpr=1)
 - Faire un nouveau projet sur GitHub nommé **"404 Page"**
 - Réaliser votre **Page 404** en **HTML** et **CSS**
 - Créer un bouton **"retour"** qui dirige vers votre profile GitHub 
