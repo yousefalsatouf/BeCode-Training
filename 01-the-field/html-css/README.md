@@ -26,7 +26,7 @@ Sauf lorsqu'il est indiqué qu'il faut une GitHub Page (dans ce cas, fais un rep
 - [7 - Star Wars](7-exercice-star-wars.md), par groupe de deux
 - [8 - Tim Berner-Lee](8-exercice-summary.md)
 
-## Bonus - Positionnement des blocs en CSS
+## Positionnement des blocs en CSS
 
 * [Positionnement des blocs en CSS](./css-position.md)
 
