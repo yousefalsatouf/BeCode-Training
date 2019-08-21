@@ -61,6 +61,7 @@ Faire les actions suivantes dans le dossier **"tim-berners-lee"**
 ### Étape 5 : readme file
 - Explique pourquoi, comment, qui
 - Explique les difficultés que tu as rencontrées dans ce projet et comment tu les as résolues.
+- Quand tu as fini l'exercice, préviens ton coach
 
 
 
