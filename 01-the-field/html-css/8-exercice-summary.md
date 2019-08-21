@@ -27,12 +27,11 @@ Faire les actions suivantes dans le dossier **"tim-berners-lee"**
 - Télécharger cette image dans le dossier image : ![alien](http://lewagon.github.io/html-css-challenges/shared/images/alien.jpg)
 
 - Dans **index.html** écrire du code HTML dont le résultat doit correspondre exactement à cette image ![Goal CSS](images/goal-html.png)
-  - Lien vers la page Wikipedia de Tim Berners-Lee : https://fr.wikipedia.org/wiki/Tim_Berners-Lee
-  - Pour avoir les icônes utiliser ceci : 
-  ```html
-  <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-  ``` 
-  - Pour choisir les icones rendez-vous chez [FontAwesome](http://fontawesome.io/icons/)
+  - Lien vers la page Wikipedia de Tim Berners-Lee (qui doit s'ouvrir dans un nouvel onglet) : https://fr.wikipedia.org/wiki/Tim_Berners-Lee
+  - Pour avoir les icônes, tu as le choix, il existe des sites où tu peux télécharger gratuitement des icones (mais attention, tu devras pouvoir modifier les couleurs de l'icône) : 
+    - [FontAwesome](http://fontawesome.io/icons/)
+    - [Flaticon](https://www.flaticon.com/)
+    - [Freepick](https://www.freepik.com/popular-icons)
 
 ### Étape 3 : CSS
 
