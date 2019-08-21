@@ -1,9 +1,4 @@
 # Les animations css
-- Repository: `becode-animation-css`
-- Durée: 3 jours 
-- Deadline: 28/09/2018 17:00 PM
-- À délivrer sur : 
-	- Github 
 	
 ## Objectifs d'apprentissage
 - Apprendre les bases de l'animation
@@ -13,14 +8,16 @@
 - Réaliser des animations en utilisant les propriétés css ``transition`` et ``animation``. **PAS DE JAVASCRIPT**
 
 ### Steps
-1. Créer un repository nommé ``becode-animation-css``
+1. Créer un repository pour chaque exercice.
 1. Fais un beau README.md qui explique ce que tu as fait, les difficultés rencontrées, etc 
 1. Amuses-toi !   
 
 ## Exercices
 1. [Faire le drill](./drill.md)
 1. [Réaliser un menu avec des transitions.](menu.md)
-1. [Recréer le générique de Star Wars](exercice-star-wars.md) - Par groupe de 2
+
+## Exercice en groupe de 2
+1. [Recréer le générique de Star Wars](exercice-star-wars.md) 
 
 ## Bonus
 1. [Recréer une card animé](card.md)
