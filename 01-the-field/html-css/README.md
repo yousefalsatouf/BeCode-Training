@@ -30,6 +30,10 @@ Sauf lorsqu'il est indiqué qu'il faut une GitHub Page (dans ce cas, fais un rep
 
 * [Positionnement des blocs en CSS](./css-position.md)
 
+## Animations CSS
+
+* [Exercices Animation CSS](Animation-css)
+
 ## Pour les fanatiques du frontend
 
 - [22 composants d'interfaces](22-composants-interfaces)

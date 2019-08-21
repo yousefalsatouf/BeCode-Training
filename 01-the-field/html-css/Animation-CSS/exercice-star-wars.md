@@ -39,7 +39,4 @@ Dans un premier temps on va juste faire défiler le texte.
 ## Ressources 
 
 - [Centrer un élément sur une page](https://www.w3schools.com/css/css_align.asp)
-- [CSS3 Animations](https://www.w3schools.com/css/css3_animations.asp)
-- [CSS3 Transformations](https://www.w3schools.com/css/css3_3dtransforms.asp)
-- [CSS Animation for Beginners](https://robots.thoughtbot.com/css-animation-for-beginners)
 - [Musique](https://www.w3schools.com/tags/tag_audio.asp)
