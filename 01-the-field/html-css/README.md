@@ -32,7 +32,7 @@ Sauf lorsqu'il est indiqué qu'il faut une GitHub Page (dans ce cas, fais un rep
 
 ## Animations CSS
 
-* [Exercices Animation CSS](animation-css)
+* [Exercices Animation CSS](animation-CSS)
 
 ## Pour les fanatiques du frontend
 
