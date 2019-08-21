@@ -7,7 +7,7 @@
 
 ## Instructions 
 
-- Voici quelques [inspirations](https://www.google.be/search?q=vcard&espv=2&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjIqtvku6zTAhVmIJoKHQDZD4wQ_AUIBigB&biw=1250&bih=703#tbm=isch&q=vcard+template)
+- Voici quelques [inspirations](https://www.google.com/search?q=nice+vcard&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjh4ez_spPkAhXGKlAKHXEkCBEQ_AUIESgB&biw=1877&bih=949)
 - Regroupe les informations dont tu auras besoin pour votre **VCard**
 - Fais un nouveau projet sur GitHub nommé **"VCard"**
 - Réalise ta **VCard** en HTML et CSS
