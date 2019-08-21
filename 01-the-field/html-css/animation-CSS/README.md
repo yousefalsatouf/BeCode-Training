@@ -17,10 +17,10 @@
 1. [Réaliser un menu avec des transitions.](menu.md)
 
 ## Exercice en groupe de 2
-1. [Recréer le générique de Star Wars](exercice-star-wars.md) 
+* [Recréer le générique de Star Wars](exercice-star-wars.md) 
 
 ## Bonus
-1. [Recréer une card animé](card.md)
+* [Recréer une card animé](card.md)
 
 ## Ressources  
 - [OpenClassRoom](https://openclassrooms.com/fr/courses/2745636-utilisez-les-effets-avances-de-css-sur-votre-site/3297084-les-animations-css)
