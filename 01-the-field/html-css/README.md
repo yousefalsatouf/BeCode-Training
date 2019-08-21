@@ -24,7 +24,6 @@ Sauf lorsqu'il est indiqué qu'il faut une GitHub Page (dans ce cas, fais un rep
 - [5 - créer un CV](5-exercice-creer-un-cv.md)
 - [6 - Vcard en HTML](6-exercice-vcard-html.md)
 - [7 - Tim Berner-Lee](8-exercice-summary.md)
-- [8 - Star Wars](7-exercice-star-wars.md), par groupe de deux
 
 ## Positionnement des blocs en CSS
 
