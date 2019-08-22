@@ -42,18 +42,18 @@ Pour les images, télécharges du contenu libre de droit sur un site comme [pexe
 
 * Pour tablet 768px :
 
-[screen-tablet](images/screen_tab_01.png)
-[screen-tablet](images/screen_tab_02.png)
-[screen-tablet](images/screen_tab_03.png)
+![screen-tablet](images/screen_tab_01.png)
+![screen-tablet](images/screen_tab_02.png)
+![screen-tablet](images/screen_tab_03.png)
 
 * Pour mobile 576px : 
 
-[screen-mobile](images/screen_mob_01.png)
-[screen-mobile](images/screen_mob_02.png)
-[screen-mobile](images/screen_mob_03.png)
+![screen-mobile](images/screen_mob_01.png)
+![screen-mobile](images/screen_mob_02.png)
+![screen-mobile](images/screen_mob_03.png)
 
 ## Encouragements 
 
 Si vous réussissez, on pourra dire que vous avez atteint les sommets ! (oui, c'est nul, mais le gif est marrant...)
 
-[mountain-cat](images/cat_mountain.gif)
+![mountain-cat](images/cat_mountain.gif)
