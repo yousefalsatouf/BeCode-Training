@@ -1,7 +1,5 @@
 # Tim Berners-Lee
 
-Temps nécessaire : 16 heures maximum
-
 ## Objectifs
 
 - Réaliser une page sur Tim Berners-Lee
