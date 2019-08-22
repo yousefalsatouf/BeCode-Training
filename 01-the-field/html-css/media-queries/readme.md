@@ -46,13 +46,13 @@ Fais en sorte que :
 - en moyen, la première fasse 2/3 de la largeur, la deuxième 1/3 et la troisième toute la largeur
 - en grand, les 3 div soient l'une à côté de l'autre.
 
-### 5. Challenge
-Adapte [ce layout (zip)](exo-respons.zip) pour les écrans de smartphone et de tablette. 
-
-- Ne modifier que le fichier CSS 
-- N'utiliser que le fichier CSS existant.
-
 ## Fini ? Bravo, ton contenu n'a qu'à bien se tenir !
 
 ![](barbapapa.gif)
+
+
+### 5. Challenge
+
+* [Challenge des montagnes](montagne)
+
 

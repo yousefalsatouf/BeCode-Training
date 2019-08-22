@@ -1,7 +1,5 @@
 # Challenge des montagnes
 
-Bienvenue dans le challenge des montagnes.  
-
 Type de challenge : **Apprentissage**
 Durée: **1/2 jour**
 Team: **par 2**
@@ -10,6 +8,52 @@ Team: **par 2**
 
 A la fin de ce challenge, tu devrais être capable de :
 
-- Lire un fichier html
-- récupérer du CSS
-- Utiliser des media queries pour différents design
+- Interpréter un fichier HTML que tu n'as pas codé
+- Utiliser des media queries pour créer un site responsive
+
+## Le topo
+
+Une association de fans d'alpinisme a développé un super site qui parle de leur passion. Mais il y a un petit problème, l'un des membres, développeur débutant n'arrive pas à rendre son site responsive. 
+
+De plus, il a perdu les images et les seules qu'il avait en stock sont des images floutées. 
+
+Tu fais appel à un collègue pour effectué cette mission.  
+Pourrez-vous rendre leur site responsive ? 
+
+
+## Instructions
+
+Tu te trouves dans le dossier `montagne`, télécharges-le en local et crée un dossier `challenge-montagne`. Ensuite, crée un repo Github du même nom. 
+
+Regarde la structure du dossier.  
+
+A la racine se trouve `index.html`. Regarde comment le html est construit. 
+
+Dans `assets` --> `css`, tu trouveras le fichier `style.css`. Tu dois uniquement travailler dans ce fichier pour rendre le site responsive. Le style est déjà lié à `index.html`. 
+
+Suis les layouts responsive ci-dessous. 
+Il y aura 2 niveaux de responsive:
+- pour les écrans jusque 768px
+- pour les écrans jusque 576px
+
+Pour les images, télécharges du contenu libre de droit sur un site comme [pexels.com](https://www.pexels.com). Prends des images de montagnes ou d'alpinistes. 
+
+## Layouts
+
+* Pour tablet 768px :
+
+[screen-tablet](images/screen_tab_01.png)
+[screen-tablet](images/screen_tab_02.png)
+[screen-tablet](images/screen_tab_03.png)
+
+* Pour mobile 576px : 
+
+[screen-mobile](images/screen_mob_01.png)
+[screen-mobile](images/screen_mob_02.png)
+[screen-mobile](images/screen_mob_03.png)
+
+## Encouragements 
+
+Si vous réussissez, on pourra dire que vous avez atteint les sommets ! (oui, c'est nul, mais le gif est marrant...)
+
+[mountain-cat](images/cat_mountain.gif)

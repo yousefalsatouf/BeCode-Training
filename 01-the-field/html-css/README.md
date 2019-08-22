@@ -29,6 +29,11 @@ Sauf lorsqu'il est indiqué qu'il faut une GitHub Page (dans ce cas, fais un rep
 
 * [Positionnement des blocs en CSS](./css-position.md)
 
+## Responsive Web Design
+
+* [Media Queries](media-queries)
+* [Challenge des montagnes](media-queries/montagne)
+
 ## Animations CSS
 
 * [Exercices Animation CSS](animation-CSS)
