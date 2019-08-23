@@ -1,14 +1,15 @@
 # Challenge des montagnes
 
-Type de challenge : **Apprentissage**
-Durée: **1/2 jour**
-Team: **par 2**
+Type de challenge : **Apprentissage**  
+Durée: **1/2 jour**  
+Team: **par 2**  
 
 ## Objectifs d'apprentissage
 
 A la fin de ce challenge, tu devrais être capable de :
 
-- Interpréter un fichier HTML que tu n'as pas codé
+- Gérer un projet Github à plusieurs
+- Utiliser les Dev Tools de ton navigateur pour voir comment un site est codé
 - Utiliser des media queries pour créer un site responsive
 
 ## Le topo
@@ -17,13 +18,16 @@ Une association de fans d'alpinisme a développé un super site qui parle de leu
 
 De plus, il a perdu les images et les seules qu'il avait en stock sont des images floutées. 
 
-Tu fais appel à un collègue pour effectué cette mission.  
+Ils ont fait appel à toi et un collègue pour effectuer cette mission.  
+
 Pourrez-vous rendre leur site responsive ? 
 
 
 ## Instructions
 
-Tu te trouves dans le dossier `montagne`, télécharges-le en local et crée un dossier `challenge-montagne`. Ensuite, crée un repo Github du même nom. 
+Tu te trouves dans le dossier `montagne`, télécharges-le en local et crée un dossier `challenge-montagne`. 
+
+Ensuite, créez un repo Github du même nom. Il ne doit y avoir qu'un repo par équipe. Celui qui crée le repo invite son partenaire. 
 
 Regarde la structure du dossier.  
 
@@ -42,14 +46,14 @@ Pour les images, télécharges du contenu libre de droit sur un site comme [pexe
 
 * Pour tablet 768px :
 
-![screen-tablet](images/screen_tab_01.png)
-![screen-tablet](images/screen_tab_02.png)
+![screen-tablet](images/screen_tab_01.png)  
+![screen-tablet](images/screen_tab_02.png)  
 ![screen-tablet](images/screen_tab_03.png)
 
 * Pour mobile 576px : 
 
-![screen-mobile](images/screen_mob_01.png)
-![screen-mobile](images/screen_mob_02.png)
+![screen-mobile](images/screen_mob_01.png)  
+![screen-mobile](images/screen_mob_02.png)  
 ![screen-mobile](images/screen_mob_03.png)
 
 ## Encouragements 
