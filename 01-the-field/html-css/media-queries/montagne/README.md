@@ -1,8 +1,8 @@
 # Challenge des montagnes
 
-Type de challenge : **Apprentissage**
-Durée: **1/2 jour**
-Team: **par 2**
+Type de challenge : **Apprentissage**  
+Durée: **1/2 jour**  
+Team: **par 2**  
 
 ## Objectifs d'apprentissage
 
@@ -24,7 +24,9 @@ Pourrez-vous rendre leur site responsive ?
 
 ## Instructions
 
-Tu te trouves dans le dossier `montagne`, télécharges-le en local et crée un dossier `challenge-montagne`. Ensuite, crée un repo Github du même nom. 
+Tu te trouves dans le dossier `montagne`, télécharges-le en local et crée un dossier `challenge-montagne`. 
+
+Ensuite, créez un repo Github du même nom. Il ne doit y avoir qu'un repo par équipe. Celui qui crée le repo invite son partenaire. 
 
 Regarde la structure du dossier.  
 
