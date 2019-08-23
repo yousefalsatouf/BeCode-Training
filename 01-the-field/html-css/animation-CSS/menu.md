@@ -1,7 +1,7 @@
 # Menu animé en CSS
 
 Exercice à faire en solo  
-Durée : **1/2 jour max !**
+Durée : **1/2 jour max !**  
 
 ## Objectifs
 * Apprendre à faire un menu animé.
@@ -9,7 +9,7 @@ Durée : **1/2 jour max !**
 
 ## Instructions :
 
-1. Les îcones utilisées ne doivent pas correspondre.  
+1. Les îcones utilisées ne doivent pas correspondre.  (Par exemple, tu peux en prendre sur [flaticon](https://www.flaticon.com/))
 1. Mais l'animation elle doit parfaitement correspondre. 
 1. Soyez attentif, observez bien tous les détails et à quel moment ils changent d'état.
 
