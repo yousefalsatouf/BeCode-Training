@@ -15,12 +15,11 @@
 ## Exercices
 1. [Faire le drill](./drill.md)
 1. [Réaliser un menu avec des transitions.](menu.md)
+1. En bonus : [Recréer une card animé](card.md)
 
 ## Exercice en groupe de 2
 * [Recréer le générique de Star Wars](exercice-star-wars.md) 
 
-## Bonus
-* [Recréer une card animé](card.md)
 
 ## Ressources  
 - [OpenClassRoom](https://openclassrooms.com/fr/courses/2745636-utilisez-les-effets-avances-de-css-sur-votre-site/3297084-les-animations-css)
