@@ -8,7 +8,7 @@ Team: **par 2**
 
 A la fin de ce challenge, tu devrais être capable de :
 
-- Interpréter un fichier HTML que tu n'as pas codé
+- Utiliser les Dev Tools de ton navigateur pour voir comment un site est codé
 - Utiliser des media queries pour créer un site responsive
 
 ## Le topo
@@ -17,7 +17,8 @@ Une association de fans d'alpinisme a développé un super site qui parle de leu
 
 De plus, il a perdu les images et les seules qu'il avait en stock sont des images floutées. 
 
-Tu fais appel à un collègue pour effectué cette mission.  
+Ils ont fait appel à toi et un collègue pour effectuer cette mission.  
+
 Pourrez-vous rendre leur site responsive ? 
 
 
