@@ -20,8 +20,6 @@ Voici quelques cas ou la propriété ``animation`` est plus indiquée.
 - Une animation où il y a une pause.
 - Une animation avec des déplacements (changements d'états) complexes.
 
- [Exemple de Sarah Drasner](https://codepen.io/sdras/pen/aOgMON)
-
 
  ## Drill 
 
