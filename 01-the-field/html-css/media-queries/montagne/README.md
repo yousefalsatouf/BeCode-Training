@@ -8,6 +8,7 @@ Team: **par 2**
 
 A la fin de ce challenge, tu devrais être capable de :
 
+- Gérer un projet Github à plusieurs
 - Utiliser les Dev Tools de ton navigateur pour voir comment un site est codé
 - Utiliser des media queries pour créer un site responsive
 
