@@ -9,8 +9,7 @@ Durée : **1 jour max !**
 
 ## Instructions :
 
-* En SASS, tu coderas !  
-Interdiction d'écrire dans ton fichier css.
+* En CSS, tu coderas !  
 * En anglais, tu nommeras !  
 Il est important de bien nommer ses classes et de les nommer en anglais. Google trad est ton ami.
 * Attentif, tu seras !  
@@ -24,7 +23,7 @@ Voici les deux états différents.
 
 
 ## Tu as terminé ?
-Franchement bravo, tu possèdes déjà un sacré un bon niveaux en scss et css ! 
+Franchement bravo, tu possèdes déjà un sacré un bon niveau en css ! 
 
 ![Bravo](./assets/bravo.gif)
 
