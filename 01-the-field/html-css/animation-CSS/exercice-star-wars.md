@@ -3,7 +3,7 @@
 ![Générique de star wars](assets/star-wars.jpg)
 
 ## L'exercice 
-- Temps imparti : 1 jour
+- Temps imparti : 1/2 jour
 - Par groupe de deux
 
 ## Objectifs
