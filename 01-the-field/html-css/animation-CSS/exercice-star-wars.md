@@ -1,6 +1,6 @@
 # Ta ta ta tata, ta ta ta tata, ta ta ta taToh, Ta ta ta taaaaa !
 
-![Générique de star wars](images/star-wars.jpg)
+![Générique de star wars](assets/star-wars.jpg)
 
 ## L'exercice 
 - Temps imparti : 1 jour
