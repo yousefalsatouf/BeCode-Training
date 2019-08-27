@@ -6,10 +6,6 @@ Le SASS (extension de fichier: scss ) est un outil de développement *frontend*,
 
 
 
-Durée estimée de ce parcours : 1 journée.
-
-
-
 ## Initialisation
 
 - [Slides d'intro au SASS](https://docs.google.com/presentation/d/1GFK1HjajFu8Hc3rLt9iIiv9hrgcVEEvTnFQmEporFxk/edit#slide=id.g35ed75ccf_057)
