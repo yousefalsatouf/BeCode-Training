@@ -20,7 +20,7 @@ Pour faire tourner SASS, tu as besoin d'un module qui tourne sur ta machine de d
 
 Tu as besoin d'utiliser Node JS. Normalement, tu as déjà dû installer Node js sur ton PC avec le gestionnaire de package npm. 
 
-A la source de ton dossier, crée un fichier `package.json` et mets deux accolades `{ }`.  
+A la source de ton dossier, crée un fichier `package.json` et mets deux accolades dedans `{ }`.  
 Fais un `npm install` dans ton terminal.  
 
 Tu es prêt à installer la dépendance `node-sass` --> `npm install node-sass`. 
