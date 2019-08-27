@@ -25,7 +25,7 @@ Fais un `npm install` dans ton terminal.
 
 Tu es prêt à installer la dépendance `node-sass` --> `npm install node-sass`. 
 
-Ensuite, dans ton package.json, copie-colle le code suivant en remplaçant les `*` par les chemins que tu veux définir dans ton repo: 
+Ensuite, dans ton package.json, copie-colle le code suivant en définissant bien les chemins entre tes fichiers scss et css dans ton repo: 
 
 ```
   "scripts": {
