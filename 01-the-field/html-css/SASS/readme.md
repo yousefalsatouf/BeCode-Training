@@ -35,7 +35,7 @@ Ensuite, dans ton package.json, copie-colle le code suivant en définissant bien
 
 Pour lancer le compilateur, mettez vous à la racine de votre dossier et tapez `npm run scss` et c'est parti. 
 
-## Parcours obligatoire
+## Parcours d'initiation
 
 - Crée un repos `learning-sass`
 
