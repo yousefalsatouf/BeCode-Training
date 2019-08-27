@@ -2,8 +2,8 @@
 
 ## Objectifs d'apprentissage
 
-1. terminer le parcours frontend par des jobs d'intégration "pixel-perfect" tels que demandés dans les agences de web : l'input reçu est une image statique, l'output à produire à chaque fois est une template html/(s)css.
-1. s'aguerrir en sass et de son approche modulaire. À ce sujet, si tu te destines au frontend development, ces lectures t'intéresseront : [BEM (en)](https://css-tricks.com/bem-101/) / [BEM (fr)](https://www.alsacreations.com/article/lire/1641-bonnes-pratiques-en-css-bem-et-oocss.html) ou l'approche [SMACSS](https://smacss.com/). 
+1. Terminer le parcours frontend par des jobs d'intégration "pixel-perfect" tels que demandés dans les agences de web : l'input reçu est une image statique, l'output à produire à chaque fois est une template html/(s)css.
+1. S'aguerrir en sass et de son approche modulaire. À ce sujet, si tu te destines au frontend development, ces lectures t'intéresseront : [BEM (en)](https://css-tricks.com/bem-101/) / [BEM (fr)](https://www.alsacreations.com/article/lire/1641-bonnes-pratiques-en-css-bem-et-oocss.html) ou l'approche [SMACSS](https://smacss.com/). 
 2. Si tu arrives au terme de ces exercices, tu pourras revendiquer la maitrise professionnelle de l'intégration html/css.
 
 ## Mission
