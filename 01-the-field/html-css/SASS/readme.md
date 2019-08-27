@@ -33,6 +33,7 @@ Ensuite, dans ton package.json, copie-colle le code suivant en remplaçant les `
   }
 ```
 
+Pour lancer le compilateur, mettez vous à la racine de votre dossier et tapez `run npm scss` et c'est parti. 
 
 ## Parcours obligatoire
 
