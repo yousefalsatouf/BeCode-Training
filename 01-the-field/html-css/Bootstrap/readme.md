@@ -13,12 +13,11 @@ Repository : `bootstrap-training`
 - éléments interfaces "riches": carrousels, jumbo menu, ...
 - ...
 
-### Cours
-- [Bootstrap Training](https://docs.google.com/presentation/d/1yrcN78ZZ_zsmLF5r307kAtLbmiFIoeb7KgI1REyCzxA/edit?usp=sharing)
 
 ### Exercices
 - [Exercices](exercices.md)
 
 ### Ressources
 
-- [documentation officielle](http://getbootstrap.com)
+- [Bootstrap documentation](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
+
