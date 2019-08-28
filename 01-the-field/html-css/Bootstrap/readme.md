@@ -17,6 +17,10 @@ Repository : `bootstrap-training`
 ### Exercices
 - [Exercices](exercices.md)
 
+### Projet
+
+* [Mini-resto](projet.md)
+
 ### Ressources
 
 - [Bootstrap documentation](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
