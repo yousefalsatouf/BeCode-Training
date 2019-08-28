@@ -49,7 +49,7 @@ Sauf lorsqu'il est indiqué qu'il faut une GitHub Page (dans ce cas, fais un rep
 
 ## Projet FooDog
 
-* [Projet FooDog](FooDog)
+* [Projet FooDog](Foodog)
 
 ## Pour les fanatiques du frontend
 

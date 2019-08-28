@@ -10,7 +10,7 @@
 
 ## Objectif d'apprentissage
 
-- Consolider ses connaires en Bootstrap, Sass, CSS, HTML
+- Consolider ses connaissances en Bootstrap, Sass, CSS, HTML
 - Respect d'un design
 
 ## Demande
