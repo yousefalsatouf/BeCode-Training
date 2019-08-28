@@ -45,6 +45,7 @@ Sauf lorsqu'il est indiqué qu'il faut une GitHub Page (dans ce cas, fais un rep
 ## Bootstrap
 
 * [Initiation Bootstrap](Bootstrap)
+* Projet : [Mini-resto](mini-resto)
 
 ## Pour les fanatiques du frontend
 
