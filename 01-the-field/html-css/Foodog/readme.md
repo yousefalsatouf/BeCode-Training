@@ -1,5 +1,7 @@
 ![Foodog](logo.JPG)
 
+## Modalités
+
 - Repository : `FooDog` 
 - Temps nécessaire :  4 jours
 - Travail : Groupe de 4  
@@ -11,7 +13,7 @@
 ## Objectif d'apprentissage
 
 - Consolider ses connaissances en Bootstrap, Sass, CSS, HTML
-- Respect d'un design
+- Respecter au pixel près un design fourni
 
 ## Demande
 
@@ -19,7 +21,7 @@ Félicitations des clients ont regardé vos travaux de Star Wars et sont super i
 
 L'un d'eux à un projet pour vous ! Lui, son truc ce ne sont pas les chats (comme nous), ce sont les chiens :dog:. 
 
-Ce client voudrait accentuer sa présence sur internet via l'animation d'un blog, qui parle d'alimentation pour  chiens. Celui-ci s'appelle **FooDog**. Il a déjà un design à vous fournir.  
+Ce client voudrait accentuer sa présence sur internet via l'animation d'un blog, qui parle d'alimentation pour  chiens. Celui-ci s'appellera **FooDog**. Le client a déjà un design à vous fournir.  
 
 Vous allez devoir réaliser l'intégration du site. 
 
