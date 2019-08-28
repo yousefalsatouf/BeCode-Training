@@ -34,7 +34,7 @@ Vous réaliserez :
 1. Le site devra être responsive, une maquette pour le desktop est déjà faite mais vous devez concevoir vous-même une maquette pour la partie mobile. 
 1. En tablet et mobile, il doit y avoir un menu hamburger.
 1. Le site devra répondre aux normes [w3c](https://validator.w3.org/).
-1. Intégrez-y un champs de recherche en haut à droite de la page sous forme d'une icône loupe :hourglass: (le designer a oublié de le mettre!). Pour la recheche, une fenêtre modale devra apparaître lorsqu'on l'on cliquera sur la loupe. 
+1. Intégrez-y un champs de recherche en haut à droite de la page sous forme d'une icône loupe (le designer a oublié de la mettre!). Pour la recheche, une fenêtre modale devra apparaître lorsqu'on l'on cliquera sur la loupe. 
 1. Soyez attentif au référencement.
 1. **PAS DE BUG**, tout doit fonctionner. 
 
