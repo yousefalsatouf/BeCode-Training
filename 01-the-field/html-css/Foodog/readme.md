@@ -36,14 +36,14 @@ Vous réaliserez :
 1. Le site devra être responsive, une maquette pour le desktop est déjà faite mais vous devez concevoir vous-même une maquette pour la partie mobile. 
 1. En tablet et mobile, il doit y avoir un menu hamburger.
 1. Le site devra répondre aux normes [w3c](https://validator.w3.org/).
-1. Intégrez-y un champs de recherche en haut à droite de la page (là où se trouve la loupe). Pour la recheche, une fenêtre modale devra apparaître lorsqu'on l'on cliquera sur la loupe. 
+1. En haut à droite de la page se trouve une loupe. Au clic sur la loupe, une fenêtre modale devra apparaître pour entrer un champs de recherche. 
 1. Soyez attentif au référencement.
 1. **PAS DE BUG**, tout doit fonctionner. 
 
 #### Pour Github :
 
 - Mettre le lien de la page GitHubPage à côté de la description (donc il faut une description au repo).
-- Un readme qui décrit bien le projet --> [Ecrire un bon Readme](https://medium.com/becode/comment-faire-un-readme-sur-github-cc11f3df606a)
+- Un readme qui décrit bien le projet, l'équipe, les technos utilisées --> [Ecrire un bon Readme](https://medium.com/becode/comment-faire-un-readme-sur-github-cc11f3df606a)
 
 
 ### Bonus 
