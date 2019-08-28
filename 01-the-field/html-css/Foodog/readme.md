@@ -68,4 +68,4 @@ Le client a une idée très précise de ce qu'il souhaite. Il tient particulièr
 
 ## Bonne chance  
 
-[dog computer](https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif)
+![dog computer](http://giphygifs.s3.amazonaws.com/media/mCRJDo24UvJMA/giphy.gif)
