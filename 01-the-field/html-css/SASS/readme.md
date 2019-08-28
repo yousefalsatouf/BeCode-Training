@@ -20,12 +20,12 @@ Pour faire tourner SASS, tu as besoin d'un module qui tourne sur ta machine de d
 
 Tu as besoin d'utiliser Node JS. Normalement, tu as déjà dû installer Node js sur ton PC avec le gestionnaire de package npm. 
 
-A la source de ton dossier, crée un fichier `package.json` et mets deux accolades `{ }`.  
+A la source de ton dossier, crée un fichier `package.json` et mets deux accolades dedans `{ }`.  
 Fais un `npm install` dans ton terminal.  
 
 Tu es prêt à installer la dépendance `node-sass` --> `npm install node-sass`. 
 
-Ensuite, dans ton package.json, copie-colle le code suivant en remplaçant les `*` par les chemins que tu veux définir dans ton repo: 
+Ensuite, dans ton package.json, copie-colle le code suivant en définissant bien les chemins entre tes fichiers scss et css dans ton repo: 
 
 ```
   "scripts": {
@@ -33,8 +33,9 @@ Ensuite, dans ton package.json, copie-colle le code suivant en remplaçant les `
   }
 ```
 
+Pour lancer le compilateur, mettez vous à la racine de votre dossier et tapez `npm run scss` et c'est parti. 
 
-## Parcours obligatoire
+## Parcours d'initiation
 
 - Crée un repos `learning-sass`
 
