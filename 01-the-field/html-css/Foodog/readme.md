@@ -10,7 +10,7 @@
 
 [Formulaire de remise]() __TODO__
 
-## Objectif d'apprentissage
+## Objectifs d'apprentissage
 
 - Consolider ses connaissances en Bootstrap, Sass, CSS, HTML
 - Respecter au pixel près un design fourni
