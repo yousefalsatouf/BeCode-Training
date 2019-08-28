@@ -34,4 +34,6 @@ En desktop, la même grille deviendra ceci :
 
 [![](./bootstrap-ex05-desktop.png)](./bootstrap-ex05-desktop.png)
 
+## Exercice 6 : un formulaire responsive
 
+Crée un formulaire de contact comprenant nom, prénom, e-mail, liste déroulante (objet du message avec un select et des options), un champs de texte (pour le message), un bouton d'envoi avec [glyphicon](http://glyphicons.com/). Les intitulés des champs sont dans la balise sémantique adéquate. 
