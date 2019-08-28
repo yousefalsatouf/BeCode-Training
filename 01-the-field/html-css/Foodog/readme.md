@@ -46,7 +46,7 @@ Vous réaliserez :
 
 ### Bonus 
 
-1. Rajoutez des animations pour rendre le site plus vivant.
+- Rajoutez des animations pour rendre le site plus vivant.
 
 ### Charte graphique
 
