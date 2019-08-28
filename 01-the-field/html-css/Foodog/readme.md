@@ -50,6 +50,13 @@ Vous réaliserez :
 
 - Rajoutez des animations pour rendre le site plus vivant.
 
+## Conseils
+
+- Segmentez votre travail et créez des conventions (de nommage, par exemple) entre vous. 
+- Utilisez un [Trello](https://trello.com) ou Github Projects pour découper les tâches et organiser votre travail. 
+- Faites des réunions régulières entre vous pour voir où vous en êtes.
+- Faites des pull, push, merge régulièrement. 
+
 ### Charte graphique
 
 Le client a une idée très précise de ce qu'il souhaite. Il tient particulièrement au respect de la charte graphique qui se trouve ci-dessous.
