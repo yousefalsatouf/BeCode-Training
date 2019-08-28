@@ -6,7 +6,7 @@
 
 ## Mission
 
-Réalise le site vitrine d'un mini restaurant, parce que ce qui est mini est mignon. Le type de nourriture (burger, pizza, asiatique, luxembourgeois...) est laissé au choix de l’apprenant.
+[Le Chef](https://en.wikipedia.org/wiki/Chef_(South_Park)) veut réaliser un le site vitrine de son mini restaurant, parce que ce qui est mini est mignon. Le type de nourriture (burger, pizza, asiatique, luxembourgeois...) est laissé au choix de l’apprenant.
 
 Le site doit être **responsive** : au moins pour les petits écrans (xs) et les écrans moyens (md). 
 
