@@ -66,6 +66,6 @@ Le client a une idée très précise de ce qu'il souhaite. Il tient particulièr
 **La Single page** 
 ![single](single.png)
 
-## Bonne chance  
+## Bon travail  
 
 ![dog computer](http://giphygifs.s3.amazonaws.com/media/mCRJDo24UvJMA/giphy.gif)
