@@ -3,7 +3,7 @@
 ## Modalités
 
 - Repository : `FooDog` 
-- Temps nécessaire :  4 jours
+- Temps nécessaire :  5 jours
 - Travail : Groupe de 4  
 
 ## Formulaire de remise du projet
