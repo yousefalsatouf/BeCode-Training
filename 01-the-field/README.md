@@ -23,6 +23,10 @@ Il existe pas mal d'astuces permettant d'améliorer les résultats que Google re
 
 - [Liste des exercices](html-css)
 
+## Projet FooDog
+
+* [Projet FooDog](Foodog)
+
 ---
 
 ## Entrainement & jeux logiques
