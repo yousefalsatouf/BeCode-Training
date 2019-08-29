@@ -8,7 +8,7 @@
 
 ## Formulaire de remise du projet
 
-[Formulaire de remise]() __TODO__
+[Formulaire de remise](https://docs.google.com/forms/d/e/1FAIpQLSd8CpY7cOyziccvaJZ3JCr49uUSpDrQp7n-jBnAfQjAs6XXeA/viewform)
 
 ## Objectifs d'apprentissage
 
