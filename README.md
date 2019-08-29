@@ -14,12 +14,18 @@ C'est embêtant, mais pas de panique, git a une solution pour tout !
 
 Dans ton terminal, navigue jusqu'au clone de ton fork, et entre la commande suivante :
 
-    git remote add upstream https://github.com/becodeorg/LIE-Jepsen-2.14.git
+    git remote add upstream git@github.com:becodeorg/LIE-Jepsen-2.14.git
 
 Si tout s'est bien passé, la commande `git remote -v` devrait te retourner quatre lignes : deux pour `origin` (ton fork), deux pour `upstream` (le repo de référence).
 Une fois ça fait, à chaque fois que tu voudras _synchroniser_ ton fork avec le repo de référence, il te suffira d'utiliser la commande suivante :
 
     git pull upstream master
+
+## Les veilles
+
+Tous les jours l'un d'entre vous présentera une veille technologique à la promo. Tu veux t'inscrire ou voir les projets des prochaines veilles dans l'agenda !  
+
+[L'agenda des veilles](https://github.com/becodeorg/The-Watch/blob/master/LIE-Jepsen-2.14/agenda.md)
 
 ## Tes sources d'information pour respecter les règles de BeCode
 
