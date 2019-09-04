@@ -27,6 +27,10 @@ Il existe pas mal d'astuces permettant d'améliorer les résultats que Google re
 
 * [Projet FooDog](Foodog)
 
+## Javascript
+
+* [Parcours Javascript](javascript)
+
 ---
 
 ## Entrainement & jeux logiques
