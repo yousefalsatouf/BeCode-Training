@@ -57,6 +57,11 @@ Pour appréhender au mieux ces exercices, quelques ressources utiles :
 - [learn js](http://www.learn-js.org/) 🇬🇧
 - [10 js array methods](https://dev.to/frugencefidel/10-javascript-array-methods-you-should-know-4lk3) 🇬🇧
 
+### Exercices Bonus
+
+* [Cookie clicker](exercices-bonus/cookie-clicker)
+* [Mastermind](exercices-bonus/mastermind)
+
 * * *
 
 Bon travail !
