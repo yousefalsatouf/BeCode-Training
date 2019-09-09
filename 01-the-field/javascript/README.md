@@ -61,6 +61,7 @@ Pour appréhender au mieux ces exercices, quelques ressources utiles :
 
 * [Cookie clicker](exercices-bonus/cookie-clicker)
 * [Mastermind](exercices-bonus/mastermind)
+* [Checkers](exercices-bonus/socket-gaming)
 
 * * *
 
