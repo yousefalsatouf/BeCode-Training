@@ -11,6 +11,8 @@ Justement, vous allez devoir réaliser le [jeu du pendu](https://fr.wikipedia.or
 
 Ici le but est d'aller le plus loin possible pour se rapprocher du vrai jeu du pendu. 
 
+Exemple simple d'un jeu du pendu complet : https://fr.y8.com/games/internet_hangman
+
 ## Instructions 
 
 ### Etape 1
@@ -69,8 +71,11 @@ Utiliser la console **ou** les fonctions natives suivantes pour intéragir avec 
 	* Au début du jeu, la potence est vide. 
 	* Si le joueur a perdu, ajouter un pendu. 
 
-
 ### Etape 8
+
+- Inclure un bouton "Nouvelle partie" qui s'affiche une fois le jeu fini. Par exemple, ça peut être une modal. 
+
+### Etape 9
 
 - Ajouter une image sans rien dedans, à chaque erreur du joueur, complèter la potence d'un élément. 
 
