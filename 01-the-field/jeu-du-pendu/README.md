@@ -77,7 +77,7 @@ Utiliser la console **ou** les fonctions natives suivantes pour intéragir avec 
 
 ### Etape 9
 
-- Ajouter une image sans rien dedans, à chaque erreur du joueur, complèter la potence d'un élément. 
+- Ajouter une image sans rien dedans, à chaque erreur du joueur, complèter la potence d'un élément, puis de la corde, puis de la tête... . 
 
 Pour cette étape, vous pouvez utiliser un [canvas](https://developer.mozilla.org/fr/docs/Web/HTML/Canvas). 
 
