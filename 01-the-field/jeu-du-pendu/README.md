@@ -73,7 +73,7 @@ Utiliser la console **ou** les fonctions natives suivantes pour intéragir avec 
 
 ### Etape 8
 
-- Inclure un bouton "Nouvelle partie" qui s'affiche une fois le jeu fini. Par exemple, ça peut être une modal. 
+- Inclure un bouton "Nouvelle partie" qui s'affiche une fois le jeu fini. Par exemple, il peut apparaître sous forme d'une modal. 
 
 ### Etape 9
 
