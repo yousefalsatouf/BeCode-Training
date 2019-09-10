@@ -24,7 +24,7 @@ Utiliser la console **ou** les fonctions natives suivantes pour intéragir avec 
 
 
 * Créer un tableau pour contenir les lettres du mot : 'D','E','V','I','N','E','R', 
-* Créer un autre tableau pour mettre les lettres devinées : '_','_','_','_','_','_','_'
+* Créer un autre tableau pour mettre les lettres devinées : '\_','\_','\_','\_','\_','\_','\_'. 
 
 
 * Écrivez une fonction appelée "guessLetter" cette fonction va 
@@ -53,7 +53,7 @@ Utiliser la console **ou** les fonctions natives suivantes pour intéragir avec 
 - Limiter le nombre de tentatives. 
 - Compter le nombre de tentatives ratées.
 - Afficher le nombre de tentatives restantes. 
-- Afficher le mot secret lors d'une défaite
+- Afficher le mot secret lors d'une défaite.
 
 ### Etape 5
 
@@ -69,11 +69,12 @@ Utiliser la console **ou** les fonctions natives suivantes pour intéragir avec 
 	* Au début du jeu, la potence est vide. 
 	* Si le joueur a perdu, ajouter un pendu. 
 
-Pour cette étape, vous pouvez utiliser un [canvas](https://developer.mozilla.org/fr/docs/Web/HTML/Canvas). 
 
 ### Etape 8
 
 - Ajouter une image sans rien dedans, à chaque erreur du joueur, complèter la potence d'un élément. 
+
+Pour cette étape, vous pouvez utiliser un [canvas](https://developer.mozilla.org/fr/docs/Web/HTML/Canvas). 
 
 
 

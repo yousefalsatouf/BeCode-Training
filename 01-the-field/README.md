@@ -30,6 +30,7 @@ Il existe pas mal d'astuces permettant d'améliorer les résultats que Google re
 ## Javascript
 
 * [Parcours Javascript](javascript)
+* Projet : [Le jeu du pendu](jeu-du-pendu)
 
 ---
 
