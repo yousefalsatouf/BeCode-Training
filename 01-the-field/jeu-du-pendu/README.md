@@ -29,11 +29,11 @@ Utiliser la console **ou** les fonctions natives suivantes pour intéragir avec 
 * Créer un autre tableau pour mettre les lettres devinées : '\_','\_','\_','\_','\_','\_','\_'. 
 
 
-* Écrivez une fonction appelée "guessLetter" cette fonction va 
+* Écrire une fonction appelée "guessLetter" cette fonction va :
     - Itérer à travers les lettres
-    - Voir si la lettre deviné se trouve dans le mot 
-    - Si oui changer le tableau des lettres deviné pour ajouter la nouvelle lettre
-    - Afficher dans la console les lettre devinés
+    - Voir si la lettre devinée se trouve dans le mot 
+    - Si oui, changer le tableau des lettres devinées pour ajouter la nouvelle lettre
+    - Afficher dans la console les lettre devinées
     - Le jeu doit savoir quand la partie est finie et féliciter le joueur
 * Le nombre d'essais est illimité
 
