@@ -7,7 +7,7 @@
 ## Mission
 
 Vous aviez envie de vous pendre en faisant les exercices Javascript ?  
-Justement, vous allez devoir réaliser le [jeu du pendu](https://fr.wikipedia.org/wiki/Le_Pendu_(jeu) !   
+Justement, vous allez devoir réaliser le [jeu du pendu](https://fr.wikipedia.org/wiki/Le_Pendu_(jeu)) !   
 
 Ici le but est d'aller le plus loin possible pour se rapprocher du vrai jeu du pendu. 
 
