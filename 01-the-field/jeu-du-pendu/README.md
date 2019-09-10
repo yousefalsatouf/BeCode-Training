@@ -81,5 +81,6 @@ Utiliser la console **ou** les fonctions natives suivantes pour intéragir avec 
 
 Pour cette étape, vous pouvez utiliser un [canvas](https://developer.mozilla.org/fr/docs/Web/HTML/Canvas). 
 
+## So simple... 
 
-
+![donald-hang](donald-hang.gif)
