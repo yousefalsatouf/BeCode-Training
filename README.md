@@ -32,7 +32,7 @@ Tous les jours l'un d'entre vous présentera une veille technologique à la prom
 1. Lis le [contrat pédagogique](../../../BeCode/blob/master/contratpedagogique.md).
 1. Le [Wiki de BeCode](https://github.com/becodeorg/BeCode/wiki)
 1. [L'agenda de ta startup](https://calendar.google.com/calendar/b/1?cid=YmVjb2RlLm9yZ19wNTc0YXFsZGhnYzNrOWwyaXBqaThwb21hb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
-1. [Becode Liège](/infos/)
+1. [Becode Liège + infos complémentaires](/infos/)
 
 ## Retards et absences
 
