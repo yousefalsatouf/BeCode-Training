@@ -14,7 +14,7 @@
 
 ## The job
 
-Marvel and DC Comics decided to gather their super heros in a new blockbuster "The Mega Avengers Justice League Reunion". But they have a problem with their scenario. To manage all these characters is a completely mess. They contact us to create an app able to manage this.  
+Marvel and DC Comics decided to gather their super heroes in a new blockbuster "The Mega Avengers Justice League Reunion". But they have a problem to manage all these characters. They contact us to create an app able to manage this.  
 
 In this project, you will use the [Character Database API](https://character-database.becode.xyz/) to make a Character Manager.  
   
