@@ -15,8 +15,10 @@
 ## The job
 
 Marvel and DC Comics decided to gather their super heros in a new blockbuster "The Mega Avengers Justice League Reunion". But they have a problem with their scenario. To manage all these characters is a completely mess. They contact us to create an app able to manage this.  
-In this project, you will use the [Character Database API](https://character-database.becode.xyz/) to make a Character Manager.
 
+In this project, you will use the [Character Database API](https://character-database.becode.xyz/) to make a Character Manager.  
+  
+This is a frontend project, you have to care about the appearance of your application and create a custom template.
 
 ## Steps
 
@@ -72,9 +74,13 @@ Le projet proposé ici est du déjà vu. Ce n'est autre que le projet *Character
 
 ## Constraints
 
-* You have to use [Typescript](https://www.typescriptlang.org/) 
+* You have to use [TypeScript](https://www.typescriptlang.org/). A `.ts` file can understand Javascript Vanilla, but we ask you to use the TypeScript's features as :
+	- Type annotations
+	- Functions features
+	- Interfaces
+	- Classes features
+	- ...
 * Since you must handle multiple pages you must use some kind of router for React. The most common one is [React Router](https://reacttraining.com/react-router/). (Be warned that it is much more easy with React Router to use `<HashRouter>` than `<BrowserRouter>`, even if the quick start proposes `<BrowserRouter>`)
-* **Visual Design is important**. This is a frontend project, you have to care about the appearance of your application and spend some time to create a custom template. As usual we recommend using [Bootstrap](https://getbootstrap.com/) with compiled SCSS but you can basically do as you want in this project as long as it's pleasant to the eye.
 * Your website must be deployed somewhere. We recommend Github Pages due to the fact it's free.
 
 ## Tips
