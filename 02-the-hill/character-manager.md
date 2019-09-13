@@ -14,7 +14,7 @@
 
 ## The job
 
-Marvel and DC Comics decided to gather their super heroes in a new blockbuster "The Mega Avengers Justice League Reunion". But they have a problem to manage all these characters. They contact us to create an app able to manage this.  
+A client Comics fan would like to manage his favorites characters in a dashboard. He contacts you to create an app able to view, edit, create all his favorites characters. 
 
 In this project, you will use the [Character Database API](https://character-database.becode.xyz/) to make a Character Manager.  
   
