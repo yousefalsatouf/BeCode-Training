@@ -64,7 +64,7 @@ button to delete characters. It should display a modal asking for confirmation.
 	- Interfaces
 	- Classes features
 	- ...
-* Since you must handle multiple pages you must use some kind of router. 
+* Since you must handle multiple pages you must use some kind of router. **Hint**: [Express](https://expressjs.com/) 
 * Your website must be deployed somewhere. We recommend Github Pages due to the fact it's free.
 
 ## Tips
