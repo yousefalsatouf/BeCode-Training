@@ -2,7 +2,7 @@
 
 - Repository : `character-manager`
 - Time : 3 days
-- Job : by team with your godfather/nephew
+- Team : with your godmother-father/pioupiou
 
 ## Objectives 
 
