@@ -80,7 +80,7 @@ npm install --save axios
 Then to import it:
 
 ```javascript
-import axios from 'axios';
+const axios = require('axios');
 ```
 Using axios it is strongly recommended to use the [async/await](https://javascript.info/async-await) syntax when working with asynchronous operations.
 
