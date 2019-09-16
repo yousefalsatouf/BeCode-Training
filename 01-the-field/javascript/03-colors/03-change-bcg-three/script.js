@@ -11,4 +11,21 @@
 
 (() => {
     // your code here
+    let button = document.getElementById("run");
+
+    button.addEventListener("click", function() {
+        let lettsNbres, color;
+
+        lettsNbres = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+        color = "#";
+
+        for (let col = 0; col < 6; col++) {
+            color = color + lettsNbres[Math.floor(Math.random() * 10)];
+        }
+
+        console.log(color);
+
+        document.body.style.backgroundColor = color;
+
+    });
 })();

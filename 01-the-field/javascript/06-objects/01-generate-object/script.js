@@ -11,4 +11,20 @@
 
 (() => {
     // your code here
+
+    let run = document.getElementById("run");
+    let person = {
+        lastName: "Alsatouf",
+        firstName: "Yousef",
+        age: 25,
+        city: "Liege",
+        country: "Belgium"
+    }
+
+    run.addEventListener("click", function() {
+        const values = Object.values(person);
+        for (let value of values) {
+            console.log(value);
+        }
+    });
 })();

@@ -11,4 +11,14 @@
 
 (() => {
     // your code here
+
+    let val = document.getElementById("color");
+    let button = document.getElementById("run");
+
+    button.addEventListener("click", function() {
+        //console.log(val.value);
+        document.body.style.backgroundColor = val.value;
+    });
+
+
 })();

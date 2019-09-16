@@ -1,3 +1,7 @@
+/*import {
+    cursorTo
+} from "readline";
+*/
 /* becode/javascript
  *
  * /08-dom/04-attr-create/script.js - 8.4: manipulation d'attributs & création d'élément
@@ -11,4 +15,13 @@
 
 (() => {
     // your code here
+    let target = document.getElementById("target");
+    let source = document.getElementById("source");
+    //console.log(source);
+    let src = source.getAttribute("data-image");
+    //console.log(src);
+    let img = document.createElement("img");
+    target.appendChild(img);
+    img.setAttribute("src", src);
+
 })();

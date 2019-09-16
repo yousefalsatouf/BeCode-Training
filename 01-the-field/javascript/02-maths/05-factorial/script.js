@@ -14,5 +14,21 @@
 
     document.getElementById("run").addEventListener("click", () => {
         // your code here
+        let value = document.getElementById("number").value;
+
+        var f = [];
+
+        function factorial(n) {
+            if (n == 0 || n == 1)
+                return 1;
+
+            if (f[n] > 0)
+                return f[n];
+
+            return f[n] = factorial(n - 1) * n;
+        }
+        let result = factorial(parseInt(value));
+
+        alert(result);
     });
 })();

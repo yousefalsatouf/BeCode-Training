@@ -11,4 +11,7 @@
 
 (() => {
     // your code here
+    let target = document.getElementById("target");
+    let structure = "<table><tr><th>Title</th></tr><tr><td>content1</td></tr><tr><td>content2</td></tr></table>";
+    target.innerHTML = structure;
 })();

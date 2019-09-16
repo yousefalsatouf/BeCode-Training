@@ -10,8 +10,7 @@
 // You will have time to focus on it later.
 
 (() => {
-    const people = [
-        {
+    const people = [{
             firstname: "Dreddy",
             lastname: "Nussgen",
             age: 70,
@@ -89,4 +88,22 @@
     ];
 
     // your code here
+
+    let run = document.getElementById("run");
+    let adults = [];
+
+    run.addEventListener("click", function() {
+
+        people.forEach(person => {
+            if (person.age > 18) {
+                adults.push(person);
+            }
+        });
+        adults.forEach(adult => {
+
+            console.log("First Name: " + adult.firstname +
+                "\n Last Name: " + adult.lastname +
+                "\n Age: " + adult.age);
+        });
+    });
 })();

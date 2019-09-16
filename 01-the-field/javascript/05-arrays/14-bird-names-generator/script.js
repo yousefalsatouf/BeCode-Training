@@ -10,19 +10,48 @@
 // You will have time to focus on it later.
 
 (() => {
-    const birds = [
-        {name: "mouette", fem: true},
-        {name: "corbeau"},
-        {name: "mésange", fem: true},
-        {name: "hibou"},
-        {name: "buse", fem: true},
-        {name: "pigeon"},
-        {name: "pie", fem: true},
-        {name: "vautour"},
-        {name: "faucon"},
-        {name: "rouge-gorge"},
-        {name: "tourterelle", fem: true},
-        {name: "corneille", fem: true},
+    const birds = [{
+            name: "mouette",
+            fem: true
+        },
+        {
+            name: "corbeau"
+        },
+        {
+            name: "mésange",
+            fem: true
+        },
+        {
+            name: "hibou"
+        },
+        {
+            name: "buse",
+            fem: true
+        },
+        {
+            name: "pigeon"
+        },
+        {
+            name: "pie",
+            fem: true
+        },
+        {
+            name: "vautour"
+        },
+        {
+            name: "faucon"
+        },
+        {
+            name: "rouge-gorge"
+        },
+        {
+            name: "tourterelle",
+            fem: true
+        },
+        {
+            name: "corneille",
+            fem: true
+        },
     ];
     const adjectives = new Set([
         "cendré",
@@ -39,4 +68,28 @@
     ]);
 
     // your code here
+
+    let run = document.getElementById("run");
+    let target = document.getElementById("target");
+    let txt = [];
+
+    run.addEventListener("click", function() {
+        function getRandomSet(set) {
+            let items = Array.from(set);
+            return items[Math.floor(Math.random() * items.length)];
+        }
+        let setVal = getRandomSet(adjectives);
+
+        function getRandomBirds(arr) {
+            return arr[Math.floor(Math.random() * arr.length)];
+        }
+        let arrVal = getRandomBirds(birds);
+
+        if (arrVal.fem) {
+            target.innerHTML = "La " + arrVal.name + " " + setVal + "e";
+        } else {
+            target.innerHTML = "Le " + arrVal.name + " " + setVal;
+        }
+
+    })
 })();

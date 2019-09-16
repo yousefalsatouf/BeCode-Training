@@ -11,4 +11,16 @@
 
 (() => {
     // your code here
+    let nbre = document.getElementById("pass-one");
+    //console.log(nbre.value);
+
+    nbre.addEventListener("input", function() {
+        let size = nbre.value.length;
+        //console.log(nbre.value);
+        if (parseInt(size) <= 10)
+            document.getElementById("counter").innerHTML = size + " /10";
+        else
+            nbre.disabled = true;
+    });
+
 })();

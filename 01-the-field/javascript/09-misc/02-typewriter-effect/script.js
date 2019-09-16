@@ -11,4 +11,21 @@
 
 (() => {
     // your code here
+    let go = 0;
+    let target = document.getElementById("target");
+    let txt = "Machin writter is a machine with keys for producing alphabetical characters, numerals, and typographical symbols one at a time on paper inserted round a roller."
+    let speed = Math.floor(Math.random() * 30) + 150;
+    target.innerHTML = "";
+
+    function typeWriter() {
+        if (go < txt.length) {
+
+            target.innerHTML += txt.charAt(go);
+            go++;
+            speed--;
+            //console.log(go);
+            setTimeout(typeWriter, speed);
+        }
+    }
+    typeWriter();
 })();

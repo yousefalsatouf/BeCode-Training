@@ -23,4 +23,15 @@
     ]);
 
     // your code here
+
+    let run = document.getElementById("run");
+    let size = people.size;
+
+    run.addEventListener("click", function() {
+        console.log(size)
+        people.forEach(person => {
+            if (people.has("Alexandre")) console.log("Alexandre is Here");
+            else console.log("Alexandre is not Here");
+        });
+    });
 })();

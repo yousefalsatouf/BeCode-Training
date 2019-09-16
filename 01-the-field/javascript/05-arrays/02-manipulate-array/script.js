@@ -24,4 +24,17 @@
     ];
 
     // your code here
+
+    let run = document.getElementById("run");
+
+    run.addEventListener("click", function() {
+        fruits.shift();
+        fruits.pop();
+        fruits.unshift("banane");
+        fruits.push("kiwi");
+
+        fruits.forEach(e => {
+            console.log(e);
+        });
+    });
 })();

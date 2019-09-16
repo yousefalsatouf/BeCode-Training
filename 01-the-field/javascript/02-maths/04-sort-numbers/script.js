@@ -14,5 +14,22 @@
 
     document.getElementById("run").addEventListener("click", () => {
         // your code here
+        let nbers = Array(2, 4, 14, 10, 90, 23, 16);
+        /*
+            function sortEggsInNest(a, b) {
+            if (a > b) {
+                return 1;
+            } else if (b > a) {
+                return -1;
+            } else {
+                return 0;
+            }
+            }
+        */
+        function sortEggsInNest(a, b) {
+            return a > b ? 1 : b > a ? -1 : 0;
+        }
+        let range = nbers.sort(sortEggsInNest);
+        document.getElementById("numbers").value = range;
     });
 })();

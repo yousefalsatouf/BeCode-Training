@@ -11,4 +11,6 @@
 
 (() => {
     // your code here
+    let biteMe = document.getElementsByClassName("target");
+    biteMe[0].innerHTML = "Owned";
 })();

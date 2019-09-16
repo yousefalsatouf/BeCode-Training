@@ -26,4 +26,9 @@
     ];
 
     // your code here
+    let run = document.getElementById("run");
+
+    run.addEventListener("click", function() {
+        console.log(fruits[3]);
+    });
 })();

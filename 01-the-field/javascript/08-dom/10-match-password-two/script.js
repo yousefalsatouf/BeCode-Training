@@ -11,4 +11,20 @@
 
 (() => {
     // your code here
+    let run = document.getElementById("run");
+    let pass1 = document.getElementById("pass-one");
+    let pass2 = document.getElementById("pass-two");
+
+    run.addEventListener("click", doIt);
+
+    function doIt() {
+        //console.log(pass1.value + pass2.value);
+        if (pass1.value == pass2.value) {
+            //console.log('good');
+        } else {
+            //console.log('bad');
+            pass1.setAttribute("class", "error");
+            pass2.setAttribute("class", "error");
+        }
+    }
 })();

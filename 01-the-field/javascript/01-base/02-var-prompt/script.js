@@ -12,3 +12,8 @@
 (() => {
     // your code here
 })();
+
+
+let FirstName = prompt('What is your first name?');
+
+alert('Bienvenu, ' + FirstName);

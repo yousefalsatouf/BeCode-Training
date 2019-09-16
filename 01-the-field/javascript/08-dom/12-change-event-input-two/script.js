@@ -11,4 +11,13 @@
 
 (() => {
     // your code here
+    let nbre = document.getElementById("pass-one");
+    let indicator = document.getElementById("validity");
+    let rule = new RegExp("^(?=.*?\\d.*\\d)[a-zA-Z0-9]{8,}$");
+    //console.log(nbre.value);
+
+    nbre.addEventListener("input", function() {
+        if (rule.test(nbre.value))
+            indicator.innerHTML = "OK";
+    });
 })();

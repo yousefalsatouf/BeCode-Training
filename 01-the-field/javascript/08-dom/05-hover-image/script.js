@@ -11,4 +11,22 @@
 
 (() => {
     // your code here
+    let parent = document.getElementsByClassName("material");
+    let img = document.getElementsByTagName("img");
+    let data = img[0].getAttribute("data-hover");
+    let src = img[0].getAttribute("src");
+
+    console.log(data);
+    img[0].addEventListener("mouseover", mouseover);
+    img[0].addEventListener("mouseout", mouseout);
+
+    function mouseover() {
+        img[0].setAttribute("src", data);
+        //console.log("u got me");
+    }
+
+    function mouseout() {
+        img[0].setAttribute("src", src);
+    }
+
 })();

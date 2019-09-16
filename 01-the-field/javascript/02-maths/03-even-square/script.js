@@ -12,5 +12,15 @@
 (() => {
     document.getElementById("run").addEventListener("click", () => {
         // your code here
+        let msg = "",
+            result = 0;
+
+        for (let i = 1; i <= 21; i++) {
+            result = i * i;
+            msg = msg + " " + i + " * " + i + " = " + result + "\n";
+        }
+
+        alert(msg);
+
     });
 })();

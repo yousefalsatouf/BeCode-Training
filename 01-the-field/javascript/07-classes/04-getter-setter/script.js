@@ -11,4 +11,34 @@
 
 (() => {
     // your code here
+    class Person {
+        firstName(firstName) {
+            this.fName = firstName;
+        }
+        lastName(lastName) {
+            this.lName = lastName;
+        }
+        setName(fName, lName) {
+            fName = this.fName;
+            lName = this.lName;
+            this.fullName = fName + " " + lName;
+        }
+        getName() {
+            return this.fullName;
+        }
+    }
+    let run = document.getElementById("run");
+
+    run.addEventListener("click", function() {
+        function display(content) {
+            console.log(content);
+        }
+        let person = new Person();
+        person.firstName("Yousef");
+        person.lastName("Alsatouf");
+
+        person.setName("Yousef", "Alsatouf");
+        let getFullName = person.getName();
+        display(getFullName);
+    });
 })();

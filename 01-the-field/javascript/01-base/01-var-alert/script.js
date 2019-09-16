@@ -12,3 +12,7 @@
 (() => {
     // your code here
 })();
+
+let helloThere = "Hello World";
+
+alert(helloThere);

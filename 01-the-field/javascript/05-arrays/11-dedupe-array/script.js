@@ -28,4 +28,19 @@
     ];
 
     // your code here
+
+    let run = document.getElementById("run");
+    let size1 = fruits.length;
+
+    run.addEventListener("click", function() {
+        console.log(size1);
+
+        let fruitsUnique = Array.from(new Set(fruits));
+
+        let size2 = fruitsUnique.length;
+        console.log(size2);
+        fruitsUnique.forEach(fruit => {
+            console.log(fruit);
+        });
+    });
 })();

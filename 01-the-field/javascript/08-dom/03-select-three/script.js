@@ -11,4 +11,8 @@
 
 (() => {
     // your code here
+    let gotThem = document.getElementsByClassName("target");
+    for (let t = 0; t < gotThem.length; t++) {
+        gotThem[t].innerHTML = "Owned";
+    }
 })();

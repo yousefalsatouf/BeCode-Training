@@ -19,4 +19,17 @@
     ];
 
     // your code here
+    let next = document.getElementById("next");
+    let img = document.getElementsByTagName("img");
+
+    next.addEventListener("click", goNext);
+
+    function goNext() {
+        for (let i = 0; i < gallery.length; i++) {
+            //console.log(gallery[i]);
+            img[0].setAttribute("src", gallery[i]);
+        }
+        //console.log("u got me");
+    }
+
 })();

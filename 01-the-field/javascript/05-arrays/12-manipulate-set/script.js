@@ -24,4 +24,17 @@
     ]);
 
     // your code here
+
+    let run = document.getElementById("run");
+    let size1 = fruits.length;
+
+    run.addEventListener("click", function() {
+        fruits.delete("pomme");
+        fruits.delete("cerise");
+        fruits.add("banane");
+        fruits.add("kiwi");
+        fruits.forEach(fruit => {
+            console.log(fruit);
+        });
+    });
 })();

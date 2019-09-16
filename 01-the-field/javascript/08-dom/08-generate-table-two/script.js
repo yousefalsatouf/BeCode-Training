@@ -11,4 +11,13 @@
 
 (() => {
     // your code here
+    let target = document.getElementById("target");
+    let tr = "";
+    for (let n = 1; n <= 10; n++) {
+        tr += "<tr><td>" + n * n + "</td></tr>";
+        //console.log(n * n);
+    }
+    target.innerHTML = "<table><tr><th>Multiplication</th></tr>" + tr + "</table>"
+
+
 })();

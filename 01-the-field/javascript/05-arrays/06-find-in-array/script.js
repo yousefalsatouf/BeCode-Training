@@ -10,8 +10,7 @@
 // You will have time to focus on it later.
 
 (() => {
-    const people = [
-        {
+    const people = [{
             firstname: "Bradford",
             lastname: "Coldbath",
             email: "bcoldbath0@wired.com",
@@ -89,4 +88,14 @@
     ];
 
     // your code here
+
+    let run = document.getElementById("run");
+
+    run.addEventListener("click", function() {
+
+        people.forEach(person => {
+            if (person.lastname == "Dupont" && person.firstname == "Jean")
+                console.log("Email: " + person.email + "\nIndex: " + people.indexOf(person));
+        });
+    });
 })();

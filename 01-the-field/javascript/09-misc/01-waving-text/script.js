@@ -11,4 +11,13 @@
 
 (() => {
     // your code here
+    let wave = document.getElementById("target");
+    wave.innerHTML = "";
+    let txt = "this text is waving like a sea's waves!!";
+
+    for (let x in txt) {
+        span = document.createElement("span");
+        wave.appendChild(span);
+        span.innerHTML = txt[x];
+    }
 })();

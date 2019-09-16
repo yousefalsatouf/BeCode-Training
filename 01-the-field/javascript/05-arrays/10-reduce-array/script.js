@@ -10,8 +10,7 @@
 // You will have time to focus on it later.
 
 (() => {
-    const people = [
-        {
+    const people = [{
             firstname: "Grenville",
             lastname: "Stive",
             age: 64,
@@ -89,4 +88,18 @@
     ];
 
     // your code here
+
+    let run = document.getElementById("run");
+    let sum = 0;
+    let ages = [];
+
+    run.addEventListener("click", function() {
+
+        people.forEach(person => {
+            ages.push(person.age);
+        });
+        //console.log(ages);
+        sum = ages.reduce((total, amount) => total + amount);
+        console.log(sum);
+    });
 })();

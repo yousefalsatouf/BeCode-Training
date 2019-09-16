@@ -26,4 +26,17 @@
     ];
 
     // your code here
+    let run = document.getElementById("run");
+
+    run.addEventListener("click", function() {
+        let apple = 0;
+
+        fruits.forEach(fruit => {
+
+            if (fruit == "pomme") {
+                apple++;
+                console.log("Yes, There is/are " + apple);
+            }
+        });
+    });
 })();
