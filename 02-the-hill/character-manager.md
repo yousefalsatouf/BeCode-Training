@@ -2,7 +2,7 @@
 
 - Repository : `character-manager`
 - Time : 3 days
-- Job : by team with your godfather/nephew
+- Team : with your godmother-father/pioupiou
 
 ## Objectives 
 
@@ -14,7 +14,7 @@
 
 ## The job
 
-Marvel and DC Comics decided to gather their super heros in a new blockbuster "The Mega Avengers Justice League Reunion". But they have a problem with their scenario. To manage all these characters is a completely mess. They contact us to create an app able to manage this.  
+A client Comics fan would like to manage his favorites characters in a dashboard. He contacts you to create an app able to view, edit, create all his favorites characters. 
 
 In this project, you will use the [Character Database API](https://character-database.becode.xyz/) to make a Character Manager.  
   
@@ -64,7 +64,7 @@ button to delete characters. It should display a modal asking for confirmation.
 	- Interfaces
 	- Classes features
 	- ...
-* Since you must handle multiple pages you must use some kind of router. 
+* Since you must handle multiple pages you must use some kind of router. **Hint**: [Express](https://expressjs.com/) 
 * Your website must be deployed somewhere. We recommend Github Pages due to the fact it's free.
 
 ## Tips
@@ -80,7 +80,7 @@ npm install --save axios
 Then to import it:
 
 ```javascript
-import axios from 'axios';
+const axios = require('axios');
 ```
 Using axios it is strongly recommended to use the [async/await](https://javascript.info/async-await) syntax when working with asynchronous operations.
 
