@@ -1,8 +1,6 @@
 # Le jeu du pendu
 
 - Repository : `javascript-jeu-du-pendu`  
-- Temps nécessaire :  3 jours
-- Travail : groupe de 2   
 
 ## Mission
 

@@ -60,6 +60,7 @@ Pour appréhender au mieux ces exercices, quelques ressources utiles :
 ### Exercices Bonus
 
 * [Cookie clicker](exercices-bonus/cookie-clicker)
+* [Jeu du pendu](exercices-bonus/jeu-du-pendu)
 * [Mastermind](exercices-bonus/mastermind)
 * [Clayderman challenge](exercices-bonus/web-audio-api)
 
