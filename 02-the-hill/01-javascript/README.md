@@ -37,4 +37,4 @@ Ouvrez un second terminal, puis _naviguez_ jusqu'au dossier du repo. Ensuite, la
 
 Bon travail !
 
-![javascript](https://media.giphy.com/media/10bdAP4IOmoN7G/giphy.gif)
+![javascript](starwarsjs.gif)
