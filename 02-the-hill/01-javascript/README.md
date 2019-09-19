@@ -2,7 +2,7 @@
 
 (re)bienvenue dans le dossier JavaScript, les deux dernières séries.
 
-Je vous renvoie au [README de la première partie](../../01-la-prairie/03-javascript/README.md) pour plus d'informations.
+Je vous renvoie au [README de la première partie](../../01-the-field/javascript/README.md) pour plus d'informations.
 
 ### Serveur local
 
@@ -37,4 +37,4 @@ Ouvrez un second terminal, puis _naviguez_ jusqu'au dossier du repo. Ensuite, la
 
 Bon travail !
 
-![](https://media.giphy.com/media/OZbGrdp7FiDiE/giphy.gif)
+![](https://media.giphy.com/media/10bdAP4IOmoN7G/giphy.gif)
