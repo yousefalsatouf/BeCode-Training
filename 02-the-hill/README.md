@@ -2,7 +2,7 @@
 
 ## Javascript part II
 
-* [Javascript: Asynchronous & fetch](/01-javascript)
+* [Javascript: Asynchronous & fetch](01-javascript)
 
 ___
 
