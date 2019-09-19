@@ -1,4 +1,4 @@
-# La Colline : JavaScript
+# The Hill : JavaScript Part II
 
 (re)bienvenue dans le dossier JavaScript, les deux dernières séries.
 
