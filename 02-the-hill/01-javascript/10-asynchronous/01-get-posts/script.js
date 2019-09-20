@@ -10,5 +10,15 @@
 // You will have time to focus on it later.
 
 (() => {
-    // your code here
+    // your code here 
+    let run = document.getElementById("run");
+    run.addEventListener("click", function() {
+        window.lib.getPosts(getArticles);
+    });
+
+    function getArticles(error = null, articles) {
+        articles.forEach(article => {
+            console.log(article);
+        });
+    }
 })();

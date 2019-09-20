@@ -11,4 +11,15 @@
 
 (() => {
     // your code here
+    let run = document.getElementById("run");
+    run.addEventListener("click", function() {
+        window.lib.getPersons(getMyPersons);
+    });
+
+    function getMyPersons(error = null, tabPersons) {
+        console.error(error);
+        tabPersons.forEach(person => {
+            console.log(person);
+        });
+    }
 })();
