@@ -11,4 +11,19 @@
 
 (() => {
     // your code here
+    let run = document.getElementById("run");
+    run.addEventListener("click", function() {
+        asyncCall();
+    });
+
+    async function asyncCall() {
+        let result = await window.lib.getPersons();
+
+        function getArticles(error = null, tabArticles) {
+            tabArticles.forEach(article => {
+                console.log(article);
+            });
+        }
+        console.log(result);
+    }
 })();

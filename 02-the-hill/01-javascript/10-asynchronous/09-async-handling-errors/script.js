@@ -11,4 +11,17 @@
 
 (() => {
     // your code here
+    let run = document.getElementById("run");
+
+    run.addEventListener("click", function() {
+        asyncCall();
+    });
+
+    async function asyncCall() {
+        let result = await window.lib.getPersons();
+        result.forEach(person => {
+            console.log(person);
+        });
+        console.log(result);
+    }
 })();

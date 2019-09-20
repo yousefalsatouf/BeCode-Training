@@ -13,11 +13,10 @@
     // your code here
     let run = document.getElementById("run");
     run.addEventListener("click", function() {
-        window.lib.getPosts(getArticles);
+        console.log(window.lib.getPosts());
     });
 
     function getArticles(error = null, tabArticles) {
-        console.error(error);
         tabArticles.forEach(article => {
             console.log(article);
         });
