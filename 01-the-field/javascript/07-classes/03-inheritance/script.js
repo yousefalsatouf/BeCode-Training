@@ -38,7 +38,6 @@
     let run = document.getElementById("run");
 
     run.addEventListener("click", function() {
-        new Animal();
         const dog = new Dog();
         dog.name("dog");
 
