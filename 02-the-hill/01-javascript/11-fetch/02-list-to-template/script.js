@@ -13,13 +13,34 @@
     // your code here
     let run = document.getElementById("run");
     let target = document.getElementById("target");
+    let tamplate;
+    let li, h, strong, em, p, hr;
 
     run.addEventListener("click", function() {
-        fetch('http://localhost:3000/heroes')
-            .then(function(response) {
-                response.json().then((data) => {
-
+        fetch("http://localhost:3000/heroes").then(function(response) {
+            response.json().then(data => {
+                data.forEach(hero => {
+                    tamplate = document.createElement("tamplate");
+                    target.append(tamplate);
+                    li = document.createElement("li");
+                    tamplate.append(li);
+                    h = document.createElement("h4");
+                    li.append(h);
+                    strong = document.createElement("strong");
+                    em = document.createElement("em");
+                    h.append(strong);
+                    h.append(em);
+                    p = document.createElement("p");
+                    li.append(p);
+                    hr = document.createElement("hr");
+                    tamplate.append(hr);
+                    strong.textContent = hero.name;
+                    em.textContent = hero.alterEgo;
+                    hero.abilities.forEach(ele => {
+                        p.textContent = ele;
+                    });
                 });
             });
+        });
     });
 })();
