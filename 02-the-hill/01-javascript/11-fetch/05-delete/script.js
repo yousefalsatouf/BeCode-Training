@@ -11,4 +11,23 @@
 
 (() => {
     // your code here
+    let run = document.getElementById("run");
+    let input = document.getElementById("hero-id");
+    let index;
+    run.addEventListener("click", function() {
+        let id = parseInt(input.value);
+        fetch("http://localhost:3000/heroes").then(function(response) {
+            response.json().then(data => {
+                index = data.map(function(hero) {
+                    return hero.id;
+                }).indexOf(id);
+                console.log(index);
+                data.splice(index, 1);
+                data.forEach(hero => {
+                    console.log(hero);
+                });
+
+            });
+        });
+    });
 })();
