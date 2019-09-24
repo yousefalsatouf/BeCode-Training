@@ -35,11 +35,11 @@ Make sure the following feature shoud be present for each character:
 
 This page should also contain a button to create a new character.
 
-### Character page
+### Single character 
 
 This page should display a full description of the character. Be warned that the `description` field is in Markdown and, of course, we want to display it as HTML in your application.
 
-### Character creation page
+### Character creation
 
 When we click on the character creation button in the Characters list page that should redirect to this page. This page should contain a form with an input for each of the following fields:
 
@@ -50,9 +50,9 @@ When we click on the character creation button in the Characters list page that 
 
 When the form is completed create the character in the API and redirect to the character list page.
 
-### Character edition page
+### Character edition
 
-This page should be similar to the Character creation page except it allows to edit an existing character.
+This part should be similar to the Character creation page except it allows to edit an existing character.
 button to delete characters. It should display a modal asking for confirmation.
 
 
