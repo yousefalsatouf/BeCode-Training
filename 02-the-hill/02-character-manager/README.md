@@ -2,7 +2,7 @@
 
 - Repository : `character-manager`
 - Time : 3 days
-- Team : with your godmother-father/pioupiou
+- Team : group of 2 or 3 with your godmother-father/pioupiou
 
 ## Objectives 
 
@@ -29,9 +29,9 @@ Make sure the following feature shoud be present for each character:
 * Its name
 * Its short description. Be warned that the `description` field is in Markdown and, of course, we want to display it as HTML in your application.
 * Its image. **Hint**: [Data URIs](https://css-tricks.com/data-uris/)
-* A way to open the corresponding Character page
-* A way to open the Character edition page (can be located on the character page instead if you want)
-* A way to delete the character (you **must** add some kind of confirmation, like a modal window)
+* A way to open the corresponding Character
+* A way to open the Character edition
+* A way to delete the character (you **must** add some kind of confirmation, "Are you sure do you want to delete this character ?")
 
 This page should also contain a button to create a new character.
 
@@ -64,7 +64,6 @@ button to delete characters. It should display a modal asking for confirmation.
 	- Interfaces
 	- Classes features
 	- ...
-* Since you must handle multiple pages you must use some kind of router. **Hint**: [Express](https://expressjs.com/) 
 * Your website must be deployed somewhere. We recommend Github Pages due to the fact it's free.
 
 ## Tips
@@ -90,3 +89,7 @@ To test APIs rapidly before coding you should use [Postman](https://www.getpostm
 To start using it today with the Character Database API you can use [this Postman collection](https://static.becode.xyz/character-database/characters-database.postman_collection.json).
 
 
+
+## Have fun and conquer the world
+
+![](https://media.giphy.com/media/rf5TGw330sy88/giphy.gif)
