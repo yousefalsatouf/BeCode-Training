@@ -64,7 +64,7 @@ button to delete characters. It should display a modal asking for confirmation.
 	- Interfaces
 	- Classes features
 	- ...
-* Your website must be deployed somewhere. We recommend Github Pages due to the fact it's free.
+* Your website must be deployed somewhere. We recommend [Github Pages](https://pages.github.com) or [Netlify](https://www.netlify.com), two great (and free) solutions.
 
 ## Tips
 
