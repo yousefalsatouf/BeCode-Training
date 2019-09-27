@@ -17,9 +17,10 @@
     });
 
     function getMyPersons(error = null, tabPersons) {
-        console.error(error);
-        tabPersons.forEach(person => {
-            console.log(person);
-        });
+        if (error) {
+            console.error(error);
+            return;
+        }
+        console.log(person);
     }
 })();
