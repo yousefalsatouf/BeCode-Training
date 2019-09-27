@@ -10,7 +10,11 @@
 - Learn Typescript
 - Use an API with HTTP requests
 
+## Competencies
 
+- Design an application : Level 3
+- Develop a dynamic web interface : Level 3
+- Use an API : Level 2
 
 ## The job
 
