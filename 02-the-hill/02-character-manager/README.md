@@ -90,6 +90,6 @@ To start using it today with the Character Database API you can use [this Postma
 
 
 
-## Have fun and conquer the world
+## Let's go to save the world
 
 ![](https://media.giphy.com/media/rf5TGw330sy88/giphy.gif)
