@@ -70,7 +70,7 @@ button to delete characters. It should display a modal asking for confirmation.
 
 ### HTTP requests
 
-This project ask you to perform HTTP Request. It is recommended to use [axios](https://github.com/axios/axios). To do so you can install it with:
+This project ask you to perform HTTP Request. It is recommended to use [axios](https://github.com/axios/axios) to do so you can install it with:
 
 ```bash
 npm install --save axios
