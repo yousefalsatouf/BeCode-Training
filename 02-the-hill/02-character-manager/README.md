@@ -10,7 +10,6 @@
 - Learn Typescript
 - Use an API with HTTP requests
 
-
 ## The job
 
 A client Comics fan would like to manage his favorites characters in a dashboard. He contacts you to create an app able to view, edit, create all his favorites characters. 
@@ -69,7 +68,7 @@ button to delete characters. It should display a modal asking for confirmation.
 
 ### HTTP requests
 
-This project ask you to perform HTTP Request. It is recommended to use [axios](https://github.com/axios/axios). To do so you can install it with:
+This project ask you to perform HTTP Request. It is recommended to use [axios](https://github.com/axios/axios) to do so you can install it with:
 
 ```bash
 npm install --save axios
@@ -89,6 +88,6 @@ To start using it today with the Character Database API you can use [this Postma
 
 
 
-## Have fun and conquer the world
+## Let's go to save the world
 
 ![](https://media.giphy.com/media/rf5TGw330sy88/giphy.gif)
