@@ -12,21 +12,21 @@ Et pour ceux qui savent un peu moins coder... WordPress te propose d'installer d
 Bref, commençons !
 
 ## Introduction
-- [01. Installation](01.InstallationBases.md)
-- [02. La structure des dossiers et fichiers](02.structurefichiers.md)
-- [03. Le dashboard](03.Dashboard.md)
-- [04. Pages, Posts, Taxonomies: organiser son site](04.Pages.md)
-- [05. Menu](05.navigation.md) : Comment naviguer dans un site wordpress
-- [06. Les plugins](06.plugins.md)
-	- [Découverte de 2 plugins](06.1qqplugins.md)
-- [07. Settings](07.settings.md)
+- [01. Installation](content/01.InstallationBases.md)
+- [02. La structure des dossiers et fichiers](content/02.structurefichiers.md)
+- [03. Le dashboard](content/03.Dashboard.md)
+- [04. Pages, Posts, Taxonomies: organiser son site](content/04.Pages.md)
+- [05. Menu](content/05.navigation.md) : Comment naviguer dans un site wordpress
+- [06. Les plugins](content/06.plugins.md)
+	- [Découverte de 2 plugins](content/06.1qqplugins.md)
+- [07. Settings](content/07.settings.md)
 
 ## Créer son thème
-- [01. La hiérarchie d'un thème](01.hierarchy.md)
-- [02. Functions.php](02.Functions.md)
-- [03. Le Codex et WP_Query](03.codex.md)
-- [04. Quelques fonctions...](04.functionsutiles.md)
-- [05. Organiser son dossier Theme](05.organisertheme.md)
+- [01. La hiérarchie d'un thème](content/01.hierarchy.md)
+- [02. Functions.php](content/02.Functions.md)
+- [03. Le Codex et WP_Query](content/03.codex.md)
+- [04. Quelques fonctions...](content/04.functionsutiles.md)
+- [05. Organiser son dossier Theme](content/05.organisertheme.md)
 - [06. ACF](ACF/)
 	- [Intro](ACF/)
 	- [Tutoriel: création des champs](ACF/tutoriel1.md)
