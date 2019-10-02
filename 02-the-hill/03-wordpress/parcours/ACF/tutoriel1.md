@@ -98,7 +98,7 @@ Comme il y en a 2, mettez One Half dans `Column Count`.
 
 Sous les champs colonnes, nous pourrons insérer nos champs Image, Titre, Survol et Bouton. 
 
- ![column-field](images/column-field.png)
+![column-field](images/column-field.png)
 
  Je vais vous montrer les champs à rentrer pour la colonne gauche. 
 
@@ -128,7 +128,7 @@ C'est tout.
 - Field name: Survol_g
 - Field type: Group
 
-![survol-group](/images/group-survol.png)
+![survol-group](images/group-survol.png)
 
 ### Bouton
 
@@ -143,7 +143,7 @@ Il y a un titre, puis un `Button Group`.
 
 Ce Button Group vous permet de donner le choix à l'utilisateur de créer soit un lien interne, soit un lien externe.  
 
-![button-group](/images/button-group.png)
+![button-group](images/button-group.png)
 
 Voici la marche à suivre: 
 - Créer un nouveau groupe de champs et nommez le *CLONE Bouton*
