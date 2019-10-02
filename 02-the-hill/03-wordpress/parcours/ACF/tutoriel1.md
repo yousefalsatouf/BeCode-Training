@@ -1,42 +1,43 @@
 # Tutoriel ACF : création des champs 
 <a href="" name="top"></a>
 
-Pour apprendre comment fonctionne ACF, nous allons prendre comme exemple la page d'accueil du projet CHIMMO. 
+Pour apprendre comment fonctionne ACF, nous allons prendre comme exemple la page d'accueil de votre projet COMPOSITION.
 
-Voici comment se présentent les champs dans la partie CMS. 
+Allez sur le [projet Composition](../../projet) et regardez le design de la front-page. 
 
-![CHIMMO-Accueil](../images/acf-chimmo-accueil.png)
+Voici comment pourraient se présenter les champs dans la partie CMS. 
 
-NB: pour ce tutoriel, tous les champs seront désignés en anglais. 
+![COMPOSITION-Accueil](/images/acf-accueil.jpg)
 
 #### Que voit-on ? 
 
-Il y a 3 onglets pcq la page d'accueil est découpée 3 parties : 
+Il y a 4 onglets pcq la page d'accueil est découpée 4 parties : 
 - le bandeau supérieur
-- À propos
-- Spécifications
+- Introduction
+- Centre
+- Inférieur
 
 Nous allons nous concentrer sur le bandeau supérieur, créer tous les champs requis et faire en sorte qu'ils s'affichent comme sur l'image ci-dessus. 
 
+NB: Comme nous utilisons des champs customisés, nous pouvons désactiver l'éditeur Gutenberg. Je vous renvois vers le chapitre [`02. Functions.php`](../02.Functions.md) pour pouvoir l'enlever.
+
 ## Le groupe de champs
 
-Premièrement, rendez-vous sur le plugin.  
+Premièrement, rendez-vous sur le plugin ACF (ou Custom Fields).  
 Ajoutez un nouveau type de champs. Nommez le *PAGE Accueil*
 
-Vous voyez 3 parties : 
+Vous voyez 3 grandes parties : 
 - La première sert à créer vos types de champs
 - Location sert à déterminer sur quel type de contenu vos champs seront actif (pages, posts, catégories...)
 - Settings permet de gérer des options pour l'affichage général
 
 ### Settings
 
-On modifie deux choses dans les settings.  
+On va modifier deux choses dans les settings.  
 
 Pour `label placement`, choisissez `left aligned`
 
 Dans `Hide on screen`, cochez `Content editor` parce que sinon, un gros wysiwyg sera afficher par défaut au dessus de nos champs.  
-
-En parlant d'éditeur de texte, nous devons enlever le nouveau super éditeur par défaut de Wordpress -> Gutenberg. Je vous renvois vers le chapitre [`02. Functions.php`](../02.Functions.md) pour pouvoir l'enlever. 
 
 
 ### Location 
@@ -47,7 +48,7 @@ On sélectionne donc un type de page particulier, comme ceci.
 
 ![location](images/location.png)
 
-Il faut aussi que vous ayez bien définit la Homepage dans les options de votre site.
+NB: pensez à créer une page spécifique pour la front-page dans votre CMS. 
 
 
 ## Création des champs
@@ -58,6 +59,7 @@ Appuyez sur Add Field (Ajouter un champs)
 
 ![Add Field](images/addfield.png)
 
+Trois parties importantes :
 1. Field label: ici mettez le nom du champs. Par exemple : "Bandeau"
 2. Field name: c'est le nom du slug qui sera créé dans la DB. C'est ce nom qui nous permettra de récupérer la valeur du champs côté front. 
 3. Field type: le type de champs. Vous pouvez voir toutes les possibilités dans le menu déroulant. Pour voir que ce que fait chaque champs et comment les utiliser, allez sur le site d'ACF. 
@@ -72,16 +74,44 @@ Vous venez de créer le premier champs.
 
 À noter que pour les onglets, il y n'y a pas de slug, c'est simplement une mise en page pour bien séparer les sections. 
 
+### Group : bandeau
+
+Comme vous pouvez le voir sur le print screen du CMS. Vous avez 2 colonnes avec du contenu similaire :
+- image
+- titre
+- survol
+- bouton
+
+Cette disposition reflète le design. 
+Pour mettre les éléments en colonne, il faut d'abord créer un groupe.  
+Dans Field Type, sélectionnez `Group`, comme ce ceci :
+
+![field-group](/images/group-field.png)
+
+Vous remarquez qu'un champ `Group` contient des `Sub Fields`. C'est là, que nous allons insérer nos colonnes. 
+
+### Colonnes
+
+Dans le groupe nous allons insérer 2 colonnes. 
++ Add Field --> Column. 
+Comme il y en a 2, mettez One Half dans `Column Count`. 
+
+Sous les champs colonnes, nous pourrons insérer nos champs Image, Titre, Survol et Bouton. 
+
+ ![column-field](/images/column-field.png)
+
+ Je vais vous montrer les champs à rentrer pour la colonne gauche. 
+
 ### Image
 
 Complètez comme ceci,
 
 - Field label: Image
-- Field name: bandeau_image
+- Field name: image_g
 - Field type: Image with user-crop
-- Instructions: `Type: <b>JPG</b><br>  Taille minimum : <b>2600x1200</b>` (On peut donner des instructions au client pour lui dire quel type de fichier il peut uploader)
+- Instructions: `Type: <b>JPG</b><br>  Taille minimum : <b>1500x1250</b>` (On peut donner des instructions au client pour lui dire quel type de fichier il peut uploader et leur taille)
 - Crop type: Hard crop
-- Target size: ici vous voyez les tailles par défaut de Wordpress. Il faudrait créer un format de 2600x1200. Pour cela, vous devez ajouter un hook dans functions.php (mais je vous laisse chercher). 
+- Target size: ici vous voyez les tailles par défaut de Wordpress. Il faudrait créer un format de 1500x1250. Pour cela, vous devez ajouter un hook dans functions.php (mais je vous laisse chercher). 
 - Return value: Image Array. Je privilégie toujours ce type de valeur, car c'est plus complet. On va voir plus tard comment récupérer cette valeur. 
 
 C'est tout. 
@@ -89,31 +119,31 @@ C'est tout.
 ### Titre
 
 - Field label: Titre
-- Field name: bandeau_titre
+- Field name: titre_g
 - Field type: Text
 
-### Sous-titre
+### Survol
 
-- Field label: Sous-titre
-- Field name: bandeau_soustitre
-- Field type: Text
+- Field label: Survol 
+- Field name: Survol_g
+- Field type: Group
+
+![survol-group](/images/group-survol.png)
 
 ### Bouton
 
 - Field label: Bouton
 - Field name: bouton
-- Field type: Clone
+- Field type: Group
 
-Je m'arrête là. Nous allons créer un clone pour ce type de champs.  
-Sauvergardez votre travail et retourner sur Custom Fields
+Ce champs bouton est un groupe qui contient plusieurs sous-champs. 
+Il y a un titre, puis un `Button Group`. 
 
-### Clone
+#### Button Group
 
-Un clone permet de créer un groupe de champs qui sera réutilisé plusieurs fois, dans plusieurs parties de votre CMS. Ca permet de gagner du temps pour ne pas devoir tout réécrire à chaque fois. 
+Ce Button Group vous permet de donner le choix à l'utilisateur de créer soit un lien interne, soit un lien externe.  
 
-Ici on va utiliser cette méthode pour créer un champs bouton.  
-Le client CHIMMO aimerait avoir plusieurs possibilités pour ses boutons, soit y mettre un lien interne au site, soit un lien externe.  
-On va lui permettre ce choix de possibilités. 
+![button-group](/images/button-group.png)
 
 Voici la marche à suivre: 
 - Créer un nouveau groupe de champs et nommez le *CLONE Bouton*

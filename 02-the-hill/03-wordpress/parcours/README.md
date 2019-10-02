@@ -9,6 +9,8 @@ WordPress est le CMS le plus répandu actuellement sur le web (on parle de plus 
 
 Et pour ceux qui savent un peu moins coder... WordPress te propose d'installer des formulaires tout prêt, des "design" à télécharger, y a plus qu'à changer le texte, les images...
 
+Mais avant de commencer, petite précision. L'environnement Wordpress est codé en PHP. Vous n'avez pas encore abordés ce language et Wordpress sera une bonne occasion de s'initier. 
+
 Bref, commençons !
 
 ## Introduction
