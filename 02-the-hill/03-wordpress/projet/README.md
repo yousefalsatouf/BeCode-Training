@@ -64,7 +64,7 @@ Certaines de ces infos sont reprises dans le footer et dans la page contact. Fai
 
 ### PAGE ACCUEIL
 
-Pour la page d'accueil, sir vous avez fait le [tuto du parcours](../parcours/ACF), vous avez déjà le bandeau supérieur. 
+Pour la page d'accueil, si vous avez fait le [tuto du parcours](../parcours/ACF), vous avez déjà le bandeau supérieur. 
 
 **Custom fields :**
 
