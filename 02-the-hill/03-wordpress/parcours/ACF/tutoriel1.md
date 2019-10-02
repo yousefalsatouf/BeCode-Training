@@ -146,15 +146,6 @@ Ce Button Group vous permet de donner le choix à l'utilisateur de créer soit u
 ![button-group](images/button-group.png)
 
 Voici la marche à suivre: 
-- Créer un nouveau groupe de champs et nommez le *CLONE Bouton*
-- Le premier champs à insérer est ´Group´, nommez le *bouton*
-- A l'intérieur du `Group`, vous voyez la partie ´Sub fields´. Dans `Sub fields` vous pouvez insérer des sous-champs. 
-- Créer les champs suivants : 
-  - Titre :
-    - Field label: Titre
-    - Field name: title
-    - Field type: text
-  - Interne / externe :
     - Field label: Interne / externe
     - Field name: choice
     - Field type: Button Group
@@ -175,46 +166,7 @@ Voici la marche à suivre:
     - Field type: Url
     - Conditional Logic: Yes
       - Show this field if : Interne / externe -> Value is equal to -> externe
- 
- Sauvegardez... 
 
- Nous avons fini ! Ca devrait ressembler à ça (avec les sub fields fermés) :
- 
- ![clone](images/clonesubfields.png)
-
-### Retour sur le Bouton
-
-Ensuite, revenons dans le groupe *PAGE Accueil*, sur le champs *Bouton*.  
-
-Il s'agit donc d'un champs `clone`.  
-
-Dans Fields, il faut rechercher notre groupe CLONE Button. Sélectionnez `All fields from CLONE Button field group`.  
-
-### Pastilles
-
-Enfin, création de 2 éléments qui sont identiques. Pour une meilleure disposition pour le client, on va disposer les champs côte à côte, pour que ça donne ceci. 
-
-![pastilles](images/pastilles.png)
-
-- Field name: bandeau_past
-
-Pour utiliser les colonnes, il faut créer un groupe. 
-
-- Field Type: Group
-
-Dans les Sub Fields, nous créons un champs `Column` -> Column Count: `One Half` 
-
-Le champs suivant :
-
-  - Field label: Pastille gauche
-  - Field name: pastg
-  - Field type: text
-
-Répétez la même chose pour la 2e colonne. 
-
-Voici à quoi ça doit ressembler :
-
-![colonnes](images/columnsub.png)
 
 ## Les autres onglets
 
@@ -222,18 +174,10 @@ Nous avons écrit tous nos champs. Il reste maintenant à insérer le contenu.
 
 Je renvois à [la première image](#top) où nous voyons les champs complétés pour l'onglet `Bandeau`. 
 
-En cadeau, je vous montre l'onglet `À propos`
+Pour les autres onglets, donc les autres parties de la front-page, je vous laisse gérer. 
 
-![à propos](images/apropos.png)
-
-et l'onglet `Spécifications`
-
-![spécifications](images/specifications.png)
-
-Dans cette partie, vous voyez un groupe, séparé en 2 colonnes, dans lesquelles se trouvent des champs `Image`, `Text` et `Repeater` (`Liste`). 
-
-Je vous laisse vous documenter sur le site d'[ACF](https://www.advancedcustomfields.com/resources/repeater/) pour voir comment fonctionnent les `Repeater`. 
+Pour la suite, documentez-vous sur le site d'[ACF](https://www.advancedcustomfields.com/resources/repeater/) pour voir comment fonctionnent les autres champs. 
 
 ___
 
-[Vers Récupération dans les Templates](tutoriel2.md)
+Si vous voulez voir comment récupérer les champs que nous avons créer ensemble, suivez le chemin --> [Vers Récupération dans les Templates](tutoriel2.md)
