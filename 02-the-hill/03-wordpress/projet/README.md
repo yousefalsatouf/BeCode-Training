@@ -1,6 +1,8 @@
-# Wordpress - CHIMMO
+# Projet - COMPOSITION
 
 ## Présentation
+
+
 
 Vous souvenez-vous de CHIMMO, cette magnifique onepage que vous avez fait à la fin de la prairie? 
 Le client a été ravi du résultat et il souhaite continuer avec vous pour faire la suite du site. 
