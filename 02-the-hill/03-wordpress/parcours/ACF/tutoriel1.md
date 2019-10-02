@@ -7,7 +7,7 @@ Allez sur le [projet Composition](../../projet) et regardez le design de la fron
 
 Voici comment pourraient se présenter les champs dans la partie CMS. 
 
-![COMPOSITION-Accueil](/images/acf-accueil.jpg)
+![COMPOSITION-Accueil](images/acf-accueil.jpg)
 
 #### Que voit-on ? 
 
@@ -86,7 +86,7 @@ Cette disposition reflète le design.
 Pour mettre les éléments en colonne, il faut d'abord créer un groupe.  
 Dans Field Type, sélectionnez `Group`, comme ce ceci :
 
-![field-group](/images/group-field.png)
+![field-group](images/group-field.png)
 
 Vous remarquez qu'un champ `Group` contient des `Sub Fields`. C'est là, que nous allons insérer nos colonnes. 
 
@@ -98,7 +98,7 @@ Comme il y en a 2, mettez One Half dans `Column Count`.
 
 Sous les champs colonnes, nous pourrons insérer nos champs Image, Titre, Survol et Bouton. 
 
- ![column-field](/images/column-field.png)
+ ![column-field](images/column-field.png)
 
  Je vais vous montrer les champs à rentrer pour la colonne gauche. 
 
