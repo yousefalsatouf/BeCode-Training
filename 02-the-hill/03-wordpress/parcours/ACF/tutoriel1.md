@@ -7,7 +7,7 @@ Allez sur le [projet Composition](../../projet) et regardez le design de la fron
 
 Voici comment pourraient se présenter les champs dans la partie CMS. 
 
-![COMPOSITION-Accueil](/images/acf-accueil.jpg)
+![COMPOSITION-Accueil](images/acf-accueil.jpg)
 
 #### Que voit-on ? 
 
