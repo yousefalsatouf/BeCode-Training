@@ -162,9 +162,6 @@ Placez un système de pagination en dessous des 6 posts.
 
 Tips : créez au moins 7 posts pour voir si votre système de pagination fonctionne. 
 
-Cette liste est un accordéon. Chaque fois que l'on clique sur une ligne, la liste s'ouvre sur le bien pointé et on voit les détails du bien.  
-L'icône ![plus](assets/plus.png) change en ![moins](assets/moins.png).
-
 NB : il n'y pas d'archive pour les posts Projets mais il y a bien des singles. 
 
 ### BANDEAU MIS EN AVANT
