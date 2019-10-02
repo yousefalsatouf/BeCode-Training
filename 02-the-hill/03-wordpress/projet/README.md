@@ -14,7 +14,7 @@
 
 Composition est une société d'architecte d'intérieur et de vente de meubles design. Ils excellent dans leur domaine, "L'esthétique comme horizon" est leur adage. 
 
-En accord avec cette idée, ce client a entreprit de rafraîchir son site vieillissant. Pour ce faire, il a contacté René Binamé, un project manager et designer. Après des semaines de boulot, ils ont défini et dessiné les contours de ce futur site web.
+En accord avec cette idée, ce client a entrepris de rafraîchir son site vieillissant. Pour ce faire, il a contacté René Binamé, un project manager et designer. Après des semaines de boulot, ils ont défini et dessiné les contours de ce futur site web.
 
 C'est à ce moment que vous intervenez. En effet, René contacte votre équipe pour réaliser le projet. Il vous fournit de magnifiques layouts et des instructions très précises.  
 
