@@ -125,7 +125,7 @@ C'est tout.
 ### Survol
 
 - Field label: Survol 
-- Field name: Survol_g
+- Field name: survol_g
 - Field type: Group
 
 ![survol-group](images/group-survol.png)

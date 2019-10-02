@@ -46,35 +46,35 @@ Pour rappel, c'est une simple mise en page pour la disposition dans le CMS.
 
 ### Image
 
-- Field name: bandeau_image
+- Field name: image_g
 
 ```php
-<img class="image" src="<?php echo get_field('bandeau_image')['sizes']['home_top']; ?>">
+<img class="image" src="<?php echo get_field('bandeau_image_g')['sizes']['home_top']; ?>">
 ```
 
 Pour rappel, j'ai choisi que le champs Image me renvoit un array. 
 
 Lorsqu'on upload une image dans Wordpress, celui-ci ne se contente par de la taille fournie. Il va créer tout un tas de déclinaisons, certaines de bases, d'autres qu'on peut lui assigner. 
 
-Par exemple, ici j'ai créé un format d'Image spécifique pour le top de ma page d'accueil, appelé `home_top` dont la taille est de 2600px sur 1200px. 
+Par exemple, ici j'ai créé un format d'Image spécifique pour le top de ma page d'accueil, appelé `home_top` dont la taille est de 1500px sur 1250px. 
 
 Pour aller rechercher mon format d'image dans l'objet ACF créé, je dois écrire la clé `['sizes']` puis le format souhaité, ici `['home_top']`. 
 
 
 ### Titre
 
-- Field name: bandeau_titre
+- Field name: bandeau_titre_g
 
 ```php
-<h1 class="title"><?php the_field('bandeau_titre') ?></h1>
+<h1 class="title"><?php the_field('bandeau_titre_g') ?></h1>
 ```
 
-### Sous-titre
+### Survol
 
-- Field name: bandeau_soustitre
+- Field name: bandeau_survol_g
 
 ```php
-<p class="subtitle"><?php the_field('bandeau_soustitre') ?></p>
+<h3 class="sous-titre"><?php the_field('bandeau_survol_g']['titre'] ?></h3>
 ```
 
 ### Bouton
@@ -83,7 +83,7 @@ Pour aller rechercher mon format d'image dans l'objet ACF créé, je dois écrir
 
 ```php
 <?php 
-  $group = get_field('bouton');
+  $group = get_field('bandeau_bouton');
 
   if($group['title']) :
 
@@ -97,25 +97,16 @@ Pour aller rechercher mon format d'image dans l'objet ACF créé, je dois écrir
 
   <a class="lien" href="<?php echo $url ?>" <?php echo $target; ?> >
       <div class="icon-container">
-        <div class="icon"><?php get_template_part('template-parts/icons/arrows/arrow-right2') ?></div>
+        <img class="icon" href="<?php (source de l'image) ?>">
       </div>
       <p><?php echo $group['title']; ?></p>
   </a>
 
   <?php endif; ?>
 ```
-Ici, on a mis une condition, soit c'est un lien interne, soit un lien externe. 
+Ici, le code est un peu long, c'est parce qu'il y a une condition, soit c'est un lien interne, soit un lien externe. 
 
 
-### Pastilles
-
-  - Field label: Pastille gauche
-  - Field name: pastg
-
-```php
-<h3 class="titre"><?php the_field('bandeau_past_pastg') ?></h3>
-```
-Idem pour la pastille droite avec le slug `pastd`
 
 ## A vous de jouer
 
@@ -125,7 +116,7 @@ Bien sûr, nous n'avons pas vu tous les types de champs. Il y en a beaucoup. Mai
 
 Pour les autres types, il vous restera à les découvrir grâce à la documentation. 
 
-Dernier conseil pour bien mettre en place vos champs customisés, mettez vous à la place du client. Celui-ci doit pouvoir remplir ses champs sans trop se poser de question et refléter ce qu'il voit en front. Votre client vous en sera reconnaissant... 
+Dernier conseil pour bien mettre en place vos champs customisés, mettez vous à la place du client. Celui-ci doit pouvoir remplir ses champs sans trop se poser de questions et ceux-ci doivent refléter ce qu'il voit en front. Votre client vous en sera reconnaissant... 
 
 Bonne chance pour votre projet ! 
 
