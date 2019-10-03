@@ -46,7 +46,7 @@ Elles désignent les types de contenu (page, post, catégorie), ainsi que les ch
 
 Tout d'abord, René nous a transmis l'arborescence du site. C'est une bonne base pour voir comment construire vos templates. 
 
-Je vous demanderais cepandant de ne pas regarder la partie "Magasin". La réalisation de cette partie constitue un bonus. 
+Je vous demanderais cependant de ne pas regarder la partie "Magasin". La réalisation de cette partie constitue un bonus. 
 
 ![arborescence](assets/Arborescence.png)
 
