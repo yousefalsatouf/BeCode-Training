@@ -7,6 +7,11 @@
 ## Project with Godfather/mother
 
 * [Character Manager](02-character-manager)
+
+## CMS
+
+* [Parcours Wordpress](03-wordpress/parcours)
+* [Projet Composition](03-wordpress/projet)
 ___
 
 Next coming soon

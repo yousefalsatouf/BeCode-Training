@@ -3,6 +3,7 @@
 - Repository : `character-manager`
 - Time : 3 days
 - Team : group of 2 or 3 with your godmother-father/pioupiou
+- [Form to fill at the end](https://docs.google.com/forms/d/1LVN94lhwoMLuexCGgSdWvN-9JfmlaYQiK7qXuqCfwc8/)
 
 ## Objectives 
 
