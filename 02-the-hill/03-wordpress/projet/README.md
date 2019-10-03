@@ -198,7 +198,7 @@ Vous ne devez pas déployer ce site. Si malgré tout, vous voulez le faire, il n
 
 ## Font
 
-Tout les textes sont en font Proxima Nova. 
+Tous les textes sont en font Proxima Nova. 
 
 Il y a beaucoup de tailles de font différentes. Faites sorte que ça ressemble au design, mais ne vous prenez pas trop la tête pour ça. 
 
