@@ -34,6 +34,7 @@ Toutes les pages dans les différents formats, ainsi que les images découpées 
 
 Les design fournis sont en mode Desktop, Tablet portrait (768px) et Mobile. 
 
+___
 
 ## Instructions
 
