@@ -34,6 +34,7 @@ Toutes les pages dans les différents formats, ainsi que les images découpées 
 
 Les design fournis sont en mode Desktop, Tablet portrait (768px) et Mobile. 
 
+___
 
 ## Instructions
 
@@ -45,7 +46,7 @@ Elles désignent les types de contenu (page, post, catégorie), ainsi que les ch
 
 Tout d'abord, René nous a transmis l'arborescence du site. C'est une bonne base pour voir comment construire vos templates. 
 
-Je vous demanderais cepandant de ne pas regarder la partie "Magasin". La réalisation de cette partie constitue un bonus. 
+Je vous demanderais cependant de ne pas regarder la partie "Magasin". La réalisation de cette partie constitue un bonus. 
 
 ![arborescence](assets/Arborescence.png)
 
@@ -197,7 +198,7 @@ Vous ne devez pas déployer ce site. Si malgré tout, vous voulez le faire, il n
 
 ## Font
 
-Tout les textes sont en font Proxima Nova. 
+Tous les textes sont en font Proxima Nova. 
 
 Il y a beaucoup de tailles de font différentes. Faites sorte que ça ressemble au design, mais ne vous prenez pas trop la tête pour ça. 
 

@@ -28,11 +28,9 @@ Pour plus d'explications, regardez dans la [documentation](https://www.advancedc
 
 ### ACF to Rest API
 
-Pour s'y retrouver dans les objets ACF, je vous ai demandé de télécharger le plugin **ACF to Rest API**.
+Pour s'y retrouver dans les objets ACF, le plugin **ACF to Rest API** pourrait vous aider.
 
-Activez-le. 
-
-Dans votre navigateur tapez `localhost/nom-du-site/wp-json/acf/v3/pages`.
+Pour l'utiliser, dans votre navigateur tapez `localhost/nom-du-site/wp-json/acf/v3/pages`.
 
 Vous voyez maintenant un fichier JSON qui comprend toutes les pages, classées par leur id, et tous leurs champs ACF. 
 
