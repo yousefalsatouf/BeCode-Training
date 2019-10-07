@@ -146,12 +146,12 @@ Ce Button Group vous permet de donner le choix à l'utilisateur de créer soit u
 ![button-group](images/button-group.png)
 
 Voici la marche à suivre: 
-    - Field label: Interne / externe
-    - Field name: choice
-    - Field type: Button Group
-    - Choices: 
-      - pagelink : interne
-      - url : externe
+   - Field label: Interne / externe
+   - Field name: choice
+   - Field type: Button Group
+   - Choices: 
+     - pagelink : interne
+     - url : externe
   - Lien :
     - Field label: Lien
     - Field name: page_link
