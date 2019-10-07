@@ -180,4 +180,4 @@ Pour la suite, documentez-vous sur le site d'[ACF](https://www.advancedcustomfie
 
 ___
 
-Si vous voulez voir comment récupérer les champs que nous avons créer ensemble, suivez le chemin --> [Vers Récupération dans les Templates](tutoriel2.md)
+Si vous voulez voir comment récupérer les champs que vous venez de créer, suivez le chemin --> [Vers Récupération dans les Templates](tutoriel2.md)
