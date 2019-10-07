@@ -160,7 +160,7 @@ Voici la marche à suivre:
     - Allow Archives URLs: Yes
     - Conditional Logic: Yes
       - Show this field if : Interne / externe -> Value is equal to -> interne  
-   - Lien :
+  - Lien :
     - Field label: Lien
     - Field name: url
     - Field type: Url
