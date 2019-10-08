@@ -146,12 +146,12 @@ Ce Button Group vous permet de donner le choix à l'utilisateur de créer soit u
 ![button-group](images/button-group.png)
 
 Voici la marche à suivre: 
-    - Field label: Interne / externe
-    - Field name: choice
-    - Field type: Button Group
-    - Choices: 
-      - pagelink : interne
-      - url : externe
+   - Field label: Interne / externe
+   - Field name: choice
+   - Field type: Button Group
+   - Choices: 
+     - pagelink : interne
+     - url : externe
   - Lien :
     - Field label: Lien
     - Field name: page_link
@@ -160,7 +160,7 @@ Voici la marche à suivre:
     - Allow Archives URLs: Yes
     - Conditional Logic: Yes
       - Show this field if : Interne / externe -> Value is equal to -> interne  
-   - Lien :
+  - Lien :
     - Field label: Lien
     - Field name: url
     - Field type: Url
@@ -180,4 +180,4 @@ Pour la suite, documentez-vous sur le site d'[ACF](https://www.advancedcustomfie
 
 ___
 
-Si vous voulez voir comment récupérer les champs que nous avons créer ensemble, suivez le chemin --> [Vers Récupération dans les Templates](tutoriel2.md)
+Si vous voulez voir comment récupérer les champs que vous venez de créer, suivez le chemin --> [Vers Récupération dans les Templates](tutoriel2.md)
