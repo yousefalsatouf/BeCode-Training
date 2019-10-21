@@ -141,7 +141,7 @@ ACF Pro permet d'implémenter facilement ce genre de contenu.
 
 Sur le design, on voit également la date de publication du post, pas besoin de créer un champs customisés, ça doit être la date fournie automatiquement par le CMS. 
 
-### POSTS PROJETS
+### POSTS PROJETS (= design posts news)
 
 	*** Contenu ***
 		Titre + Img + Intro 
