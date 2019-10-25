@@ -25,20 +25,21 @@ Become a more valuable developer.
 ## Declaring a Class
 We declare a class using the “class” keyword, followed by the name of the class and a set of curly braces. Although PHP doesn't really care about spacing, the standard is to start the curly braces on the next line down. Although class names are NOT case sensitive, changing case within your program can get extremely confusing.
 
-`php
+```php
 class Recipe
 {
 }
-`
+```
+
 ## StudlyCaps
 The standard for naming classes is StudlyCaps, which means the first letter should be capitalized, as well as the first letter of any subsequent word, all other letters should be lower case. For example: in a class named “MyRecipe”, the M and the R would be capitalized and the other letters would be lower case.
 
 ## Instantiating an Object
 After creating the class, a new object can be instantiated and stored in a variable using the “new” keyword:
 
-`php
+```php
 $recipe1 = new Recipe();
-`
+```
 
 ### Challenge
 Start grouping things around you into objects.
@@ -66,9 +67,9 @@ Access modifiers allows us to control the access, or visibility, of our properti
 
 Object-Operators allow us to access the properties and methods of a class. We reference the object name, the object-operator, and finally the property name. The object-operator consists of the characters dash and greater than, which together make a single arrow (->).
 
-`php
+```php
 $recipe->source = "Grandma Holligan";
-`
+```
 
 *Note that the property name does not start with the $ sign; only the object name starts with a $, because this entire reference is one variable.*
 
@@ -78,23 +79,23 @@ Functions within a class are called methods.
 ### Referencing Objects
 OOP allows objects to reference themselves using the keyword variable $this. When working within the scope of a method, use the keyword $this in the same way you would use the object name outside the class. The $this keyword indicates that we want to use the object’s own properties or methods, and allows us to have access to them within the class scope.
 
-`php
+```php
 return $this->title . " by " . $this->source;
-`
+```
 
 *Note: Just like accessing the property outside the class, only the keyword $this starts with the dollar sign, we don’t use the dollar sign again for the properties and methods. Together $this, with the property name, make up a single variable.*
 
 ### Accessing Methods
 To use the displayRecipe method, we call it just like a regular function. The only difference is that we first reference the object it belongs to, with the object-operator (->), just like we did when accessing a property.
 
-`php
+```php
 echo $recipe1->displayRecipe();
-`
+```
 
 
 ## Access Modifiers
 
-Access modifiers allows us to control the access, or (https://www.php.net/manual/en/language.oop5.visibility.php)[visibility], of our properties. These access modifiers are public, private, or protected. If declared using var, the property will be defined as public. When declaring a property, the visibility MUST be defined by an access modifier.
+Access modifiers allows us to control the access, or [visibility](https://www.php.net/manual/en/language.oop5.visibility.php), of our properties. These access modifiers are public, private, or protected. If declared using var, the property will be defined as public. When declaring a property, the visibility MUST be defined by an access modifier.
 
 ### Don't Allow Property Change
 If we wanted to keep someone from changing a property after it’s been set the first time, we could use two different options. Both require that the property itself is set to private. Only allow the property to be set in the `__construct` method and don't set up another method to change the property. Add a conditional to any method that modifies the property to first check that the property is empty before adding a value.
@@ -116,8 +117,8 @@ Providing a debugging interception point for when a property changes at runtime.
 Improved interoperability with libraries that are designed to operate against property getter/setters - Mocking, Serialization, etc.
 Allowing inheritors to change the semantics of how the property behaves and is exposed by overriding the getter/setter methods.
 
-## (https://www.php.net/manual/en/language.oop5.static.php)[Static Methods]
+**[Static Methods](https://www.php.net/manual/en/language.oop5.static.php)**
 
-## (https://www.php.net/manual/en/language.oop5.magic.php)[Magic Methods]
+**[Magic Methods](https://www.php.net/manual/en/language.oop5.magic.php)**
 
-## (https://www.php.net/manual/en/language.constants.predefined.php)[Magic constants]
+**[Magic constants](https://www.php.net/manual/en/language.constants.predefined.php)**

@@ -13,6 +13,7 @@ this link:./introduction.adoc[introduction] for more information.
 * link:./loop.md[04 - loops]
 * link:./functions.md[05 - functions]
 * link:./form.md[06 - How to manage a form correctly in PHP]
+* link:./oop/[07 - OOP]
 
 == Challenges
 
@@ -32,6 +33,6 @@ this link:./introduction.adoc[introduction] for more information.
 
 === Frameworks
 
-* https://www.slimframework.com/docs/v3/tutorial/first-app.html(Slim Tutorial)
+* https://www.slimframework.com/docs/v3/tutorial/first-app.html[Slim Tutorial]
 
 image::https://media.giphy.com/media/g4jDE1JnpUNaw/giphy.gif[]
