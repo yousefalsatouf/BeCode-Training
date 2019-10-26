@@ -26,4 +26,4 @@ and put the final file [expert.php](resources/expert.php) in the repository fold
 
 You will change this junior code in expert code!
 
-![Debugginglike](http://i.imgur.com/Bi7D4M7.gifv)
+![Debugginglike](http://i.imgur.com/Bi7D4M7.gifv/)
