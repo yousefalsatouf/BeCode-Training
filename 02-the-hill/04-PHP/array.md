@@ -247,9 +247,9 @@ As seen before, you can store all types of values in an array... including other
 ```php
 $me = array(
 	'age'	=> 45 , 
-	'firstname' 		=> 'Alexandre' ,
-	'lastname' 	  		=> 'Plennevaux' ,
-	'favourite_movies' 	=> array('My Own Private Idaho', 'Her', 'Matrix')
+	'firstname' 		=> 'Nicolas' ,
+	'lastname' 	  	=> 'Jamar' ,
+	'favourite_movies' 	=> array('The Good, the Bad...', 'In the Mouth of Madness', 'Barry Lyndon')
 );
 
 echo '<pre>';
