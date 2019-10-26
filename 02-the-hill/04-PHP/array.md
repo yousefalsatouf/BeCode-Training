@@ -1,7 +1,5 @@
 # PHP Arrays
 
-Feel free to use [http://phptester.net/](http://phptester.net/) to play with the examples.
-
 
 ![Armoire](./assets/array-shelve.jpg)
 
