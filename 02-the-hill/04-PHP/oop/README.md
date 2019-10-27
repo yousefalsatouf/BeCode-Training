@@ -11,7 +11,6 @@
 
 ## Introduction
 
-![assemblyline](https://media.giphy.com/media/2A3dXPpN6gqTGMatfY/200w_d.gif)
 
 A programming paradigm is a style, or “way”, of approaching a problem to come up with a solution. The two main paradigms in PHP are **procedural** and **object-oriented**.
 
@@ -21,18 +20,21 @@ No one programming paradigm solves every programming problems, but the more you 
 
 ## OOP Definition
 
-Object-Oriented Programming (PHP OOP), is a type of programming language principle that helps in building complex, reusable web applications. That allows developers to group similar tasks into containers called `classes`.
+Object-Oriented Programming (PHP OOP), is a type of programming language principle that helps in building complex, reusable web applications. That allows developers to group similar tasks into containers called `classes` wich allows to create `objects`.  
 
+For example, in the real world, a class could be an auto factory and autos produced the `objects` tnstantiated.
+
+![assemblyline](https://media.giphy.com/media/2A3dXPpN6gqTGMatfY/200w_d.gif)
 ## The Why
 
-Sooner rather than later, you’ll have to work with object-oriented code.
-Modularity
-Scalability
-Frameworks
-Contributing to open source software.
-Gives you various ways to think and solve problems.
-More easily translate your programming skills into other Object-Oriented languages.
-Become a more valuable developer.
+* Sooner rather than later, you’ll have to work with object-oriented code.
+* Modularity
+* Scalability
+* Frameworks
+* Contributing to open source software.
+* Gives you various ways to think and solve problems.
+* More easily translate your programming skills into other Object-Oriented languages.
+* Become a more valuable developer.
 
 ## Tenets of Object-Oriented Programming
 
