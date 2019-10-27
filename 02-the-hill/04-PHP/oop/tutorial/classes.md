@@ -1,10 +1,14 @@
 # The project 
 
-![crazy cooker](http://giphygifs.s3.amazonaws.com/media/LVBH3rg1BUROw/giphy.gif)
-
-
 From our cookbook, we'll be able to perfom some actions. 
 
+* display the recipe titles. 
+* display an shopping list of ingredient
+* display an individual recipe
+
+Let's begin.
+
+![crazy cooker](http://giphygifs.s3.amazonaws.com/media/LVBH3rg1BUROw/giphy.gif)
 
 # Classes and Objects
 
@@ -30,7 +34,6 @@ After creating the class, a new object can be instantiated and stored in a varia
 $recipe1 = new Recipe();
 ```
 
-
 ## Properties
 Variables within a class are called properties.
 The naming convention for properties is camelCase. For example, `$ingredients` or `$dryIngredients`.
@@ -38,7 +41,7 @@ The naming convention for properties is camelCase. For example, `$ingredients` o
 ## Access Modifiers
 [PHP Docs: Visibility](https://www.php.net/manual/en/language.oop5.visibility.php)
 
-Access modifiers allows us to control the access, or visibility, of our properties. These access modifiers are public, private, or protected. If declared using var, the property will be defined as public. When declaring a property, the visibility MUST be defined by an access modifier.
+Access modifiers allows us to control the access, or visibility, of our properties. When declaring a property, the visibility MUST be defined by an access modifier.
 
 * **Public**: Publicly accessible from anywhere, even from outside the scope of the class.
 
@@ -46,10 +49,18 @@ Access modifiers allows us to control the access, or visibility, of our properti
 
 * **Protected**: Same as private, except by allowing child (sub) classes to access protected parent (super) properties and methods.
 
-Example :
+We can create a property with or without default value or initializing it. 
 
 ```php
-
+class Recipe
+{
+	public $title;
+	public $ingredients = array();
+	public $instructions = array();
+	public $yield;
+	public $tag = array();
+	public $source = "The crazy cooker";
+}
 ````
 
 
@@ -58,8 +69,10 @@ Example :
 Object-Operators allow us to access the properties and methods of a class. We reference the object name, the object-operator, and finally the property name. The object-operator consists of the characters dash and greater than, which together make a single arrow (->).
 
 ```php
-$recipe->source = "Grandma";
+$recipe1 = new Recipe();
+echo $recipe1->source;
 ```
+*output: "The crazy cooker"*
 
 *Note that the property name does not start with the $ sign; only the object name starts with a $, because this entire reference is one variable.*
 
