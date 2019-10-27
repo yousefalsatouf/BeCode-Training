@@ -26,6 +26,6 @@ and put the final file [expert.php](resources/expert.php) in the repository fold
 
 You will change this junior code in expert code!
 
-![Debugginglike](http://i.imgur.com/Bi7D4M7.gifv/)
+![Debugginglike](http://imgur.com/Bi7D4M)
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="Bi7D4M7"><a href="//imgur.com/Bi7D4M7">Debugging is like..</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="Bi7D4M7"><a href="//imgur.com/Bi7D4M7">Debugging is like..</a></blockquote>
