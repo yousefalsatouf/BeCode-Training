@@ -1,17 +1,17 @@
-## Clarification
-A programming paradigm is a style, or “way”, of approaching a problem to come up with a solution. The two main paradigms in PHP are procedural and object-oriented.
+# OOP
+
+## Introduction
+
+A programming paradigm is a style, or “way”, of approaching a problem to come up with a solution. The two main paradigms in PHP are **procedural** and **object-oriented**.
 
 No one programming paradigm solves every programming problems, but the more you know about different paradigms, the better prepared you’ll be to choose the right tool for the job, and write cleaner and more organized code.
 
-Bad / “spaghetti code” that weaves all over your application and is complicated to follow, can be written in any paradigm, including OOP.
+## OOP Definition
 
-## Tenets of Object-Oriented Programming
-The DRY principal or Don’t Repeat Yourself. When you repeat the same code in multiple locations, updating becomes a nightmare. Maximize reusability, minimize repeating code.
-
-The KISS principle: Keep It Simple Stupid. Don't use fancy OOP features just because you can. Use fancy OOP features because they have specific, demonstrable benefits to the problem you're trying to solve.
-
+Object-Oriented Programming (PHP OOP), is a type of programming language principle that helps in building complex, reusable web applications.
 
 ## The Why
+
 Sooner rather than later, you’ll have to work with object-oriented code.
 Modularity
 Scalability
@@ -20,6 +20,14 @@ Contributing to open source software.
 Gives you various ways to think and solve problems.
 More easily translate your programming skills into other Object-Oriented languages.
 Become a more valuable developer.
+
+## Tenets of Object-Oriented Programming
+
+1. The DRY principal or Don’t Repeat Yourself. When you repeat the same code in multiple locations, updating becomes a nightmare. Maximize reusability, minimize repeating code.
+
+2. The KISS principle: Keep It Simple Stupid. Don't use fancy OOP features just because you can. Use fancy OOP features because they have specific, demonstrable benefits to the problem you're trying to solve.
+
+
 
 
 ## Declaring a Class
@@ -40,9 +48,6 @@ After creating the class, a new object can be instantiated and stored in a varia
 ```php
 $recipe1 = new Recipe();
 ```
-
-### Challenge
-Start grouping things around you into objects.
 
 
 ## Properties
@@ -68,7 +73,7 @@ Access modifiers allows us to control the access, or visibility, of our properti
 Object-Operators allow us to access the properties and methods of a class. We reference the object name, the object-operator, and finally the property name. The object-operator consists of the characters dash and greater than, which together make a single arrow (->).
 
 ```php
-$recipe->source = "Grandma Holligan";
+$recipe->source = "Grandma";
 ```
 
 *Note that the property name does not start with the $ sign; only the object name starts with a $, because this entire reference is one variable.*

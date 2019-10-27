@@ -20,6 +20,7 @@ this link:./introduction.adoc[introduction] for more information.
 * link:./debugging/[01 - debugging]
 * link:./hackers_poulette/[02 - Hackers Poulette]
 * link:./login.adoc[03 - Log yourself in]
+* link:./oop/cookbook[04 - Cookbook]
 
 == Resources
 
