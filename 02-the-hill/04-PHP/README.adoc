@@ -21,10 +21,6 @@ this link:./introduction.adoc[introduction] for more information.
 * http://phptester.net/[PHPTester]
 * https://www.php.net/manual/en/language.oop5.visibility.php[OOP - visibility]
 
-=== SQL 
-* https://github.com/treehouse/cheatsheets/blob/master/sql_basics/cheatsheet.md[SQL Basics Cheatsheet]
-* https://github.com/treehouse/cheatsheets/blob/master/querying_relational_databases/cheatsheet.md[Querying Relational Databases Cheatsheet]
-
 === Frameworks
 
 * https://www.slimframework.com/docs/v3/tutorial/first-app.html[Slim Tutorial]

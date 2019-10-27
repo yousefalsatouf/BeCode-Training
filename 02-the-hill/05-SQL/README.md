@@ -44,3 +44,6 @@ Rappel : bien séparer le traitement PHP (avant la balise doctype) et l'affichag
 - [Connexion à la DB en PDO et MySQL et requêtes préparées](Pratique-l'utilisation-de-PDO.md)
 - [Wiki sur les MCD et les logiciels utiles pour les réaliser](https://github.com/becodeorg/BeCode/wiki/Outils-de-mod%C3%A9lisation-de-base-de-donn%C3%A9es-%28SQL%29)
 
+* [SQL Basics Cheatsheet](https://github.com/treehouse/cheatsheets/blob/master/sql_basics/cheatsheet.md)
+* [Querying Relational Databases Cheatsheet](https://github.com/treehouse/cheatsheets/blob/master/querying_relational_databases/cheatsheet.md)
+
