@@ -1,5 +1,7 @@
 # OOP
 
+![](https://media.giphy.com/media/2A3dXPpN6gqTGMatfY/source.gif)
+
 ## Introduction
 
 A programming paradigm is a style, or “way”, of approaching a problem to come up with a solution. The two main paradigms in PHP are **procedural** and **object-oriented**.
