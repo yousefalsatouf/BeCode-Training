@@ -15,13 +15,6 @@ this link:./introduction.adoc[introduction] for more information.
 * link:./form.md[06 - How to manage a form correctly in PHP]
 * link:./oop/[07 - OOP]
 
-== Challenges
-
-* link:./debugging/[01 - debugging]
-* link:./hackers_poulette/[02 - Hackers Poulette]
-* link:./login.adoc[03 - Log yourself in]
-* link:./oop/cookbook[04 - Cookbook]
-
 == Resources
 
 * https://www.php.net/manual/en/[manual]

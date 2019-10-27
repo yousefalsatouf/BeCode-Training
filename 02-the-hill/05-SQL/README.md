@@ -26,19 +26,12 @@
 1. Pour [voler de tes propres ailes](./5.moveon.md)
 1. PHP + MySQL  : [via PDO](./6.pdo.md)
 1. [Bases de données relationnelles](./7.relational-db.md)
+
 ### Exercices pratiques
 1. [petits exercices / Drill d'initiation au SQL](./sql-exo)
-1. [MySQL CRUD - Activité "randonnée"](php-training-mysql) - Comprendre la base de données
-1. [Authentification](php-challenge-auth) - Create a user system
-1. [CRUD - 1](php-exercises-crud1) - CRUD part one
-1. [CRUD - 2](php-exercises-crud2) - CRUD part two
 
 Rappel : bien séparer le traitement PHP (avant la balise doctype) et l'affichage dans le navigateur (dans la partie HTML)!
 
-## Projet d'apprentissage (en groupe).
-<!-- Briefing pinterest. -->
-## Challenge de fin de parcours Backend
-<!-- Fil rouge, phase 4: CMS + REST API -->
 
 ### Ressources externes
 
@@ -50,9 +43,4 @@ Rappel : bien séparer le traitement PHP (avant la balise doctype) et l'affichag
 - [Introduction aux bases de données relationnelles](https://docs.google.com/presentation/d/1pPVFVr72xmmGpHFSKbF6ZL9QblwfX5MWaViXlnY3w2I/edit?usp=sharing) - tables multiples et jointures
 - [Connexion à la DB en PDO et MySQL et requêtes préparées](Pratique-l'utilisation-de-PDO.md)
 - [Wiki sur les MCD et les logiciels utiles pour les réaliser](https://github.com/becodeorg/BeCode/wiki/Outils-de-mod%C3%A9lisation-de-base-de-donn%C3%A9es-%28SQL%29)
-
-
-
-
-
 

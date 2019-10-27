@@ -16,7 +16,8 @@
 ## PHP / SQL
 
 * [Parcours PHP](04-PHP)
-* [Parcours SQL](05-PHP)
+* [Parcours SQL](05-SQL)
+* [Challenges](06-challenges-php-sql)
 ___
 
 Next coming soon
