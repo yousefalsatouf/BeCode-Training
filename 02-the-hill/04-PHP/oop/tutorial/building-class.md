@@ -33,7 +33,11 @@ For example, if we're setting the title of our recipe  directly, we're at the me
 
 So instead of setting the property directly, we create another method called a **setter**, whose job it is to format the incoming data before setting the property.
 
+Also, we don't want to be able to access the property directly, so we need to change the access modifier to `private`.
+
 ```php
+private $title;
+
 public function setTitle($title)
 {
 	$this->title = ucwords($title);
@@ -45,9 +49,33 @@ Now we can do something with the title before actually setting the value. Here, 
 
 ```php
 $recipe1->setTitle("my first recipe");
+echo $recipe1->title;
 ```
 
-*output: "My first recipe"*
+*output: "... cannot access private property..."*
+
+## Getters
+
+Setting the title property to `private` means that we can't read this title directly either.
+
+We need to set up an other method called a `getter`.  
+
+Getters and Setters work together to access private properties. 
+
+```php
+public function getTitle()
+{
+	return $this->title;
+}
+
+$recipe1->setTitle("my first recipe");
+echo $recipe1->getTitle();
+```
+*output: "My First Recipe"*
+
+## Private Methods
+
+You can create pravate methods that can only be used by other methods within the class, but cannot be accessed directly by outside the class. 
 
 ### Don't Allow Property Change
 If we wanted to keep someone from changing a property after it’s been set the first time, we could use two different options. Both require that the property itself is set to private. Only allow the property to be set in the `__construct` method and don't set up another method to change the property. Add a conditional to any method that modifies the property to first check that the property is empty before adding a value.

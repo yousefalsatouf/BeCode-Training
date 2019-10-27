@@ -22,7 +22,7 @@ No one programming paradigm solves every programming problems, but the more you 
 
 Object-Oriented Programming (PHP OOP), is a type of programming language principle that helps in building complex, reusable web applications. That allows developers to group similar tasks into containers called `classes` wich allows to create `objects`.  
 
-For example, in the real world, a class could be an auto factory and autos produced the `objects` tnstantiated.
+For example, in the real world, a `class` could be an auto factory and autos produced the `objects` tnstantiated.
 
 ![assemblyline](https://media.giphy.com/media/2A3dXPpN6gqTGMatfY/200w_d.gif)
 ## The Why
