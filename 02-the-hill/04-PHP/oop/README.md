@@ -30,9 +30,9 @@ Become a more valuable developer.
 2. The KISS principle: Keep It Simple Stupid. Don't use fancy OOP features just because you can. Use fancy OOP features because they have specific, demonstrable benefits to the problem you're trying to solve.
 
 
+## Classes and Objects
 
-
-## Declaring a Class
+### Declaring a Class
 We declare a class using the “class” keyword, followed by the name of the class and a set of curly braces. Although PHP doesn't really care about spacing, the standard is to start the curly braces on the next line down. Although class names are NOT case sensitive, changing case within your program can get extremely confusing.
 
 ```php
@@ -41,10 +41,9 @@ class Recipe
 }
 ```
 
-## StudlyCaps
-The standard for naming classes is StudlyCaps, which means the first letter should be capitalized, as well as the first letter of any subsequent word, all other letters should be lower case. For example: in a class named “MyRecipe”, the M and the R would be capitalized and the other letters would be lower case.
+The standard for naming classes is StudlyCaps, which means the first letter should be capitalized, as well as the first letter of any subsequent word, all other letters should be lower case. For example: in a class named *MyRecipe*.
 
-## Instantiating an Object
+### Instantiating an Object
 After creating the class, a new object can be instantiated and stored in a variable using the “new” keyword:
 
 ```php
@@ -52,14 +51,12 @@ $recipe1 = new Recipe();
 ```
 
 
-## Properties
+### Properties
 Variables within a class are called properties.
-
-### camelCase
-The naming convention for properties is camelCase, like a camel, the “humps” are in the middle. The name starts with a lowercase letter, and all other words, start with a capital letter. For example, $ingredients or $dryIngredients.
+The naming convention for properties is camelCase. For example, `$ingredients` or `$dryIngredients`.
 
 ### Access Modifiers
-(https://www.php.net/manual/en/language.oop5.visibility.php)[PHP Docs: Visibility]
+[PHP Docs: Visibility](https://www.php.net/manual/en/language.oop5.visibility.php)
 
 Access modifiers allows us to control the access, or visibility, of our properties. These access modifiers are public, private, or protected. If declared using var, the property will be defined as public. When declaring a property, the visibility MUST be defined by an access modifier.
 
