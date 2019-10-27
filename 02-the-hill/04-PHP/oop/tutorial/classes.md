@@ -99,6 +99,7 @@ To use the displayRecipe method, we call it just like a regular function. The on
 echo $recipe1->displayRecipe();
 ```
 
+-----
 
 ## Access Modifiers
 
