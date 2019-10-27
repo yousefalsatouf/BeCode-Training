@@ -35,7 +35,7 @@ $recipe1 = new Recipe();
 ```
 
 ## Properties
-Variables within a class are called properties.
+Variables within a class are called **properties**.
 The naming convention for properties is camelCase. For example, `$ingredients` or `$dryIngredients`.
 
 ## Access Modifiers
@@ -77,13 +77,17 @@ echo $recipe1->source;
 *Note that the property name does not start with the $ sign; only the object name starts with a $, because this entire reference is one variable.*
 
 ## Methods
-Functions within a class are called methods.
+Functions within a class are called **methods**.
 
 ### Referencing Objects
 OOP allows objects to reference themselves using the keyword variable $this. When working within the scope of a method, use the keyword $this in the same way you would use the object name outside the class. The $this keyword indicates that we want to use the object’s own properties or methods, and allows us to have access to them within the class scope.
 
 ```php
-return $this->title . " by " . $this->source;
+public function displayRecipe() 
+{
+	return $this->title . " by " . $this->source;
+}
+
 ```
 
 *Note: Just like accessing the property outside the class, only the keyword $this starts with the dollar sign, we don’t use the dollar sign again for the properties and methods. Together $this, with the property name, make up a single variable.*
