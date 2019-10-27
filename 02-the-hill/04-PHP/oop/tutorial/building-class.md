@@ -36,10 +36,12 @@ So instead of setting the property directly, we create another method called a *
 ```php
 public function setTitle($title)
 {
-	$this->title = $title;
+	$this->title = ucwords($title);
 }
 ```
+*the keyword `this` gives us access to the object's property, and the title, without the keyword `this` give us the passed argument*
 
+Now we can do something with the title before actually setting the value. Here, we uppercase the first letter of the title with `ucwords()` function.
 
 ### Don't Allow Property Change
 If we wanted to keep someone from changing a property after it’s been set the first time, we could use two different options. Both require that the property itself is set to private. Only allow the property to be set in the `__construct` method and don't set up another method to change the property. Add a conditional to any method that modifies the property to first check that the property is empty before adding a value.

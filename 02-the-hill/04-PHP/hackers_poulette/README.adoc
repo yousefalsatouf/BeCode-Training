@@ -7,9 +7,7 @@
 
 Type of challenge: *consolidation* +
 Repository: *hackers-poulette* +
-Duration: *3 day* +
-Deadline: *11/10/2019 17:00* +
-Form: *Under construction*
+Form: *Under construction* 
 Team challenge: *solo*
 
 CAUTION: This project will use PHP. And we didn't talk about a GitHub Page. Maybe there is a reason.
