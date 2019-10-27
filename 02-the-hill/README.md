@@ -13,9 +13,10 @@
 * [Parcours Wordpress](03-wordpress/parcours)
 * [Projet Composition](03-wordpress/projet)
 
-## PHP
+## PHP / SQL
 
-* [Parcours](04-PHP)
+* [Parcours PHP](04-PHP)
+* [Parcours SQL](05-PHP)
 ___
 
 Next coming soon

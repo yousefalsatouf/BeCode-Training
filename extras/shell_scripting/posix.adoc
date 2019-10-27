@@ -1,0 +1,61 @@
+= POSIX
+
+// Links
+:check: https://www.shellcheck.net/
+:posix: https://www.cyberciti.biz/faq/what-is-posix-shell/
+
+Type of challenge: *learning* +
+Duration: *3 hours* +
+Team challenge: *solo*
+
+
+== Learning objectives
+
+At the end of this challenge you should:
+
+* know what *POSIX* is
+* be able to convert scripts to *POSIX*
+* be able to write *POSIX* scripts
+
+
+== The mission
+
+Portability might not be one of your primary concerns, but you'll be glad to
+know {posix}[POSIX] if you ever find yourself executing the same script on
+different UNIX (variants) systems, with different shells.
+
+You should first take time to research the different rules to respect in order
+to have a _POSIX_ script, then convert the _BASH script_ below to its POSIX
+equivalent.
+
+[source,bash]
+----
+#!/bin/env sh
+
+FILES_PATH=(one.txt two.txt three.txt)
+FOLDER=/tmp/bashism
+
+mkdir -p $FOLDER
+for I in ${FILES_PATH[*]}; do
+	if ! [[ -f $FOLDER/$I ]]; then
+		head -n 30 /dev/urandom > $FOLDER/$I
+	fi
+done
+----
+
+NOTE: You can check if a script is _POSIX_ with tools like {check}[shellcheck],
+it exist both as a website or a CLI command.
+
+=== Resources
+
+* {check}[Shellcheck website version]
+* https://github.com/koalaman/shellcheck[Shellcheck github]
+
+
+== Congrats
+
+It might feel annoying to comply with *POSIX* and sometimes it doesn't even make
+sense, but whenever you want to use your script on *multiple system* you should
+remember what you learned here.
+
+image::https://media.giphy.com/media/MWDLf1EIUsoNy/giphy.gif[]

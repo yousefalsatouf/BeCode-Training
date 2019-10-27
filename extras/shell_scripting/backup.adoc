@@ -1,0 +1,35 @@
+= Backup
+
+Type of challenge: *consolidation* +
+Duration: *4 hours* +
+Team challenge: *solo*
+
+
+== Missions objectives
+
+At the end of this challenge you should have improved your:
+
+* knowledge of *shell scriping*
+
+
+== The mission
+
+Now that you are more familiar with *shell scripting* you will have to test
+yourself with a small project involving backing up your data.
+
+.Instructions
+* identify files and folder you would like to backup
+* copy all these in a temporary new folder
+* archive that folder with tar
+* remove the temporary folder
+
+.Optional
+* make your script *POSIX*
+
+
+== Congrats
+
+When you run your script you should end up with an _<archive>.tar_ containing a
+copy of all your data. You can then store that _tar file_ wherever you want.
+
+image::https://media.giphy.com/media/9RZLYBqiwETni/giphy.gif[]

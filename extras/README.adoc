@@ -1,0 +1,23 @@
+= Extras
+
+// Links
+:prequest: https://help.github.com/en/articles/creating-a-pull-request
+
+This folder contains courses that are not directly related to web development or
+simply not in the program. Feel free to explore them whenever you find yourself
+with some _time to kill_.
+
+Given that you might also have interesting *skills* or *knowledge* to share with
+your coworkers, you are also *encouraged* to write courses yourself. To do so
+you should follow this link:./course_template/[template], then make a
+{prequest}[pull request].
+
+NOTE: If you decide to propose a track don't forget to add a link to it in the
+_briefings_ section of this file.
+
+
+== Courses
+
+* link:./shell_scripting/[shell scripting]
+
+image::https://media.giphy.com/media/gNhFFmZjdq5Fu/giphy.gif[]

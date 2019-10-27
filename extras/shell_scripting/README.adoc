@@ -1,0 +1,38 @@
+= Shell scripting
+
+// Links
+:info: https://www.guru99.com/introduction-to-shell-scripting.html
+
+To understand what's a *shell script* you need to know what a *shell* and
+a *script* are, read this {info}[article] for more informations.
+
+By now you might have understood that your _terminal_ runs a *shell* and that
+this shell is the one translating your commands to the system.
+
+When you type instructions within the command line you are actually speaking in
+the *shell scripting* language, meaning you can *write these instructions into a
+file*, then feed them to the shell to accomplish any task you would directly
+from your prompt.
+
+So what's a *shell script* in the end? Well it's simply a file containing all
+the instructions required to automate a frequently done task.
+
+NOTE: The shell scripting language is especially good at processing data (input,
+output) and system administration, but it should be complemented with other
+languages (C, Python, Ruby, etc...) for other tasks.
+
+
+== Requirements
+
+This briefing assumes that you have:
+
+* previous programming knowledge
+
+
+== Challenges
+
+* link:./syntax.adoc[syntax]
+* link:./posix.adoc[POSIX]
+* link:./backup.adoc[backup]
+
+image::https://media.giphy.com/media/YMDsyy7CS42ju/giphy.gif[]
