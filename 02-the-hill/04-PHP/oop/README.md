@@ -1,6 +1,6 @@
 # OOP
 
-![](https://media.giphy.com/media/2A3dXPpN6gqTGMatfY/source.gif)
+![assemblyline](https://media.giphy.com/media/2A3dXPpN6gqTGMatfY/source.gif)
 
 ## Introduction
 
