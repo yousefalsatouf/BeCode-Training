@@ -1,5 +1,11 @@
 # Menu
 
+* [Intro](/02-the-hill/04-PHP/oop/)
+* [Tutorial : Classes & objects](/02-the-hill/04-PHP/oop/tutorial/classes.md)
+* [Tutorial : Building class](/02-the-hill/04-PHP/oop/tutorial/build-class.md)
+
+---
+
 # The project 
 
 From our cookbook, we'll be able to perfom some actions. 

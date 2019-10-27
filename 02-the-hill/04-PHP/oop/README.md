@@ -3,14 +3,15 @@
 ## Menu
 
 
-* [Definition](/02-the-hill/04-PHP/oop/)
-* [Class & objects](/02-the-hill/04-PHP/oop/tutorial/classes.md)
-* [Building class](/02-the-hill/04-PHP/oop/tutorial/build-class.md)
+* [Intro](/02-the-hill/04-PHP/oop/)
+* [Tutorial : Classes & objects](/02-the-hill/04-PHP/oop/tutorial/classes.md)
+* [Tutorial : Building class](/02-the-hill/04-PHP/oop/tutorial/build-class.md)
 
-
-![assemblyline](https://media.giphy.com/media/2A3dXPpN6gqTGMatfY/200w_d.gif)
+---
 
 ## Introduction
+
+![assemblyline](https://media.giphy.com/media/2A3dXPpN6gqTGMatfY/200w_d.gif)
 
 A programming paradigm is a style, or “way”, of approaching a problem to come up with a solution. The two main paradigms in PHP are **procedural** and **object-oriented**.
 
@@ -45,6 +46,6 @@ Are you hungry to learn more about OOP PHP paradigm ? I guess "Yes"...
 
 To satisfy your hunger we will built a cookbook collection full of recipe objects and call your talent of cookercoder...
 
-[oop cookbook part one](/02-the-hill/04-PHP/oop/tutorial/classes.md)
+[Cookbook: Classes & objects](/02-the-hill/04-PHP/oop/tutorial/classes.md)
 
 
