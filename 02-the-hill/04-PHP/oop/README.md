@@ -37,6 +37,6 @@ Are you hungry to learn more about OOP PHP paradigm ? I guess "Yes"...
 
 To satisfy your hunger we will built a cookbook collection full of recipe objects and call your talent of cookercoder...
 
-[oop cookbook part one](./tutorial/classes.md)
+[oop cookbook part one](tutorial/classes.md)
 
 
