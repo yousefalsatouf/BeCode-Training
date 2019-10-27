@@ -19,7 +19,27 @@ Access modifiers allows us to control the access, or visibility, of our properti
 
 * **Private**: Accessed within the class itself. It protects properties and methods from being accessed from outside the class.
 
-* **Protected**: Same as private, except by allowing child (sub) classes to access protected parent (super) properties and methods.
+* **Protected**: Same as private, except by allowing child (sub) classes to access protected parent (super) properties and methods.  
+
+
+For this moment all our methods and properties are public, that means that any object can access  those properties and methods directly.  
+
+While this does work, it doesn't give us any control over how the data is stored or retrieved. Often, we may want to sanitize or format the data before it's stored in the object.
+
+
+## Setters
+
+For example, if we're setting the title of our recipe  directly, we're at the mercy of whatever data is passed to our property. This data could contain anything, especially if we're accepting user input.
+
+So instead of setting the property directly, we create another method called a **setter**, whose job it is to format the incoming data before setting the property.
+
+```php
+public function setTitle($title)
+{
+	$this->title = $title;
+}
+```
+
 
 ### Don't Allow Property Change
 If we wanted to keep someone from changing a property after it’s been set the first time, we could use two different options. Both require that the property itself is set to private. Only allow the property to be set in the `__construct` method and don't set up another method to change the property. Add a conditional to any method that modifies the property to first check that the property is empty before adding a value.

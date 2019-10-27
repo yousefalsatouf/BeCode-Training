@@ -25,7 +25,7 @@ Let's begin.
 
 We declare a class using the “class” keyword, followed by the name of the class and a set of curly braces. Although PHP doesn't really care about spacing, the standard is to start the curly braces on the next line down. Although class names are NOT case sensitive, changing case within your program can get extremely confusing.
 
-Let's create a file called `classes` in your PHP's environment system and it a a file called `recipe.php`. Inside declaring class `Recipe`.
+Let's create a file called `classes` in your PHP's environment system and it a a file called `recipes.php`. Inside declaring class `Recipe`.
 
 ```php
 class Recipe
