@@ -6,6 +6,8 @@ A programming paradigm is a style, or “way”, of approaching a problem to com
 
 No one programming paradigm solves every programming problems, but the more you know about different paradigms, the better prepared you’ll be to choose the right tool for the job, and write cleaner and more organized code.
 
+> :spaghetti: Bad / “spaghetti code” that weaves all over your application and is complicated to follow, can be written in any paradigm, including OOP.
+
 ## OOP Definition
 
 Object-Oriented Programming (PHP OOP), is a type of programming language principle that helps in building complex, reusable web applications.
