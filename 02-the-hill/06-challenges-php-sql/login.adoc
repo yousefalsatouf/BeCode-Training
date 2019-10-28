@@ -7,7 +7,8 @@
 :pdo: https://phptherightway.com/#pdo_extension
 
 Type of challenge: *learning* +
-Team challenge: *solo* +
+Duration: *2 days*
+Team challenge: *group of 2* +
 Project submission : *under construction*
 
 

@@ -7,8 +7,9 @@
 
 Type of challenge: *consolidation* +
 Repository: *hackers-poulette* +
-Form: *Under construction* 
-Team challenge: *solo*
+Duration : *2 days*
+Team challenge: *solo* +
+Form: *Under construction* +
 
 CAUTION: This project will use PHP. And we didn't talk about a GitHub Page. Maybe there is a reason.
 

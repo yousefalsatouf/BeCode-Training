@@ -1,4 +1,4 @@
-# Title: Debugging
+# Debugging
 
 - Repository: `php-debugging`
 - Type of Challenge: `Learning challenge`
