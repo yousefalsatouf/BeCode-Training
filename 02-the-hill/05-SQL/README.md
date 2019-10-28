@@ -38,7 +38,6 @@ Rappel : bien séparer le traitement PHP (avant la balise doctype) et l'affichag
 - [Concevez votre site web avec PHP et MySQL (partie 4)](https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/913655-quest-ce-quune-base-de-donnees)
 - [Administrez vos bases de données avec MySQL](https://openclassrooms.com/fr/courses/1959476-administrez-vos-bases-de-donnees-avec-mysql)
 - [Cours : SoloLearn SQL](https://www.sololearn.com/Course/SQL/) - pour apprendre le langage SQL, ce langage qui parle aux bases de données
-- [Introduction à MySQL](https://docs.google.com/presentation/d/1yXQz5dMMDkdSu5eBOG7YS2UH2uWyg5vJmU0kJt6YR6Q/edit?usp=sharing) - DB, phpMyAdmin et SQL
 - [Introduction à PDO](https://docs.google.com/presentation/d/14-5BGNJyuILB2kfYlxzsaFDRNA8zCrot9DbYVVNo3X4/edit?usp=sharing) - connexion à la DB
 - [Introduction aux bases de données relationnelles](https://docs.google.com/presentation/d/1pPVFVr72xmmGpHFSKbF6ZL9QblwfX5MWaViXlnY3w2I/edit?usp=sharing) - tables multiples et jointures
 - [Connexion à la DB en PDO et MySQL et requêtes préparées](Pratique-l'utilisation-de-PDO.md)
