@@ -7,7 +7,7 @@
 
 Type of challenge: *consolidation* +
 Repository: *hackers-poulette* +
-Duration : *2 days*
+Duration : *2 days* +
 Team challenge: *solo* +
 Form: *Under construction* +
 
