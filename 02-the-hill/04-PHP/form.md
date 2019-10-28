@@ -40,7 +40,7 @@ In order to propose a good UX and also to have good, valid data (e.g. that age i
 
 ###### Think about each of these questions. What would be the most appropriate input?
 
-######## 1. What's your name?
+##### 1. What's your name?
 We expect to have... a short chain of characters. Which input(s) corresponds to this?
 
 ##### 2. How old are you?
