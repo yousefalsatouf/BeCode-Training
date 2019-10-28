@@ -1,0 +1,57 @@
+= Briefing template
+
+Repository: *challenge-repository-name* +
+Type of challenge: *learning* | *consolidation* +
+Duration: *time to complete* +
+Deployment strategy: *Github page* | *Heroku* | *self-hosting* | ... +
+Team challenge : *number* |  *solo*
+
+
+== Objectives
+
+This section should simply list the objectives that should have been achieved by
+the end the briefing
+
+By the end of this challenge you should be able to:
+
+* write a briefing
+* think pedagogical resources
+
+By the end of this challenge you should have improved:
+
+* your understanding of briefings
+
+NOTE: A *consolidation challenge* should not introduce new things, but improve
+upon already established ones.
+
+
+== The mission
+
+All briefings should have the reader do something, give him a mission. In case
+of a *learning challenge* the mission should aim at teaching something, while if
+you write a *consolidation challenge* it should improve upon already settled
+foundation of knowledge.
+
+.Instructions
+* find the subject of your briefing
+* is it a *consolidation* or *learning* challenge?
+* think the mission through
+* describe the mission
+* give instructions
+* congratulate the reader
+
+.Optional
+* find resources
+* put an awesome GIF
+
+=== Resources
+
+* https://www.skillsyouneed.com/write/structure.html[writing structure]
+
+
+== Congrats
+
+After a briefing, be kind, share a congratulation or an encouragement to your
+reader. It's also a great time to share a GIF, https://giphy.com/[need any ?]
+
+image::https://media.giphy.com/media/4N1wOi78ZGzSB6H7vK/giphy.gif[]
